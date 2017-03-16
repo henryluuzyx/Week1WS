@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Sự cố vỡ đập bùn thải: Hơn 500 hộ dân bị thiệt hại - Nghệ An
+</title><meta name="keywords" content="Nghệ Tĩnh,Châu Cường,Châu Quang,Châu Thành,Nậm Huống,ô nhiễm,Quang Hương,Đồng Huống,Nhật Lân,ô nhiễm môi trường,UBND xã Châu Quang,Trần Văn Tuấn,Đức Chuyên,chi trả,Mường Ham,Quang Thịnh" /><meta name="description" content="Sau 6 ngày xẩy ra sự cố vỡ đập chứa bùn thải, các xã Châu Cường, Châu Quang đã có thống kê những thiệt hại của dân." />
+<link rel="canonical" href="http://www.baomoi.com/su-co-vo-dap-bun-thai-hon-500-ho-dan-bi-thiet-hai/c/21773800.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21773800" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21773800" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://baonghean.vn/bao-chi-ban-doc/201703/su-co-vo-dap-bun-thai-hon-500-ho-dan-bi-thiet-hai-2791227/");
+else
+window.location.replace("http://www.baomoi.com/su-co-vo-dap-bun-thai-hon-500-ho-dan-bi-thiet-hai/c/21773800.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

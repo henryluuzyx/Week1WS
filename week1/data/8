@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Top 5 showbiz: Hoa hậu Nam Em la hét thất thanh khi bị cưỡng hiếp trong phim - Lao Động
+</title><meta name="keywords" content="siêu xe Cường Đôla,Megan Fox,Soobin Hoàng Sơn,hiếp dâm,ballad,showbiz,fan,video clip,Anh" /><meta name="description" content="Hoa hậu Nam Em la hét thất thanh khi bị cưỡng hiếp trong phim, Siêu xe Cường Đôla và dàn xế &#39;lóa mắt&#39; trong clip nhạc Việt, Soobin Hoàng Sơn đốn tim fan với..." />
+<link rel="canonical" href="http://www.baomoi.com/top-5-showbiz-hoa-hau-nam-em-la-het-that-thanh-khi-bi-cuong-hiep-trong-phim/c/21774273.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21774273" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21774273" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://laodong.com.vn/tv-showbiz/top-5-showbiz-hoa-hau-nam-em-la-het-that-thanh-khi-bi-cuong-hiep-trong-phim-647010.bld");
+else
+window.location.replace("http://www.baomoi.com/top-5-showbiz-hoa-hau-nam-em-la-het-that-thanh-khi-bi-cuong-hiep-trong-phim/c/21774273.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

@@ -1,0 +1,1326 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head><title>
+Đoàn Thị Hương - BAOMOI.COM
+</title><meta name="keywords" /><meta name="description" /><meta http-equiv="refresh" content="1800" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="content-language" content="vi" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="author" content="BAOMOI.COM" /><meta name="msvalidate.01" content="94801D71438B64887D4670AB4661921E" /><meta name="robots" content="index,follow" /><meta name="googlebot" content="index,follow,noarchive" />
+<script type="text/javascript">
+function mobileDetect() { var e = /android|webos|iphone|ipad|ipod|blackberry|bb|playbook|iemobile|windows phone|kindle|silk|opera mini/i.test(navigator.userAgent.toLowerCase()); if (e) if (window.location.hash && "bm_web" === window.location.hash.replace("#", "")) { var o = new Date; o.setTime(o.getTime() + 864e5); var i = "; expires=" + o.toGMTString(); document.cookie = "bm_web=1" + i + "; path=/" } else { for (var n = null, t = "bm_web=", a = document.cookie.split(";"), l = 0; l < a.length; l++) { for (var r = a[l]; " " === r.charAt(0) ;) r = r.substring(1, r.length); if (0 === r.indexOf(t)) { n = r.substring(t.length, r.length); break } } (null === n || "1" !== n) && (window.location = window.location.href.replace("www.baomoi.com", "m.baomoi.com")) } } mobileDetect();
+</script>
+<meta name="apple-itunes-app" content="app-id=651979466" /><meta name="google-play-app" content="app-id=com.epi" /><meta name="apple-mobile-web-app-title" content="Báo Mới" /><meta name="application-name" content="Báo Mới" /><meta name="msapplication-TileColor" content="#ffc40d" /><meta name="msapplication-TileImage" content="http://s.baomoi.xdn.vn/favicons/mstile-144x144.png" /><meta name="msapplication-config" content="http://s.baomoi.xdn.vn/favicons/browserconfig.xml" /><meta name="theme-color" content="#ffffff" />
+<link rel="canonical" href="http://www.baomoi.com/doan-thi-huong/t/2027322.epi" />
+<link rel="alternate" href="http://www.baomoi.com/doan-thi-huong/t/2027322.epi" hreflang="x-default" />
+<link rel="alternate" media="handheld" href="http://m.baomoi.com/doan-thi-huong/t/2027322.epi" />
+<link href="https://plus.google.com/118052067613632439662" rel="publisher" />
+<link rel="apple-touch-icon" sizes="57x57" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="60x60" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-180x180.png" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/android-chrome-192x192.png" sizes="192x192" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-16x16.png" sizes="16x16" />
+<link rel="manifest" href="http://s.baomoi.xdn.vn/favicons/manifest.json" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="stylesheet" href="http://s.baomoi.xdn.vn/web/styles/css/baomoi-dist_17021714.css">
+<style>
+#site-header {
+z-index: 9999999 !important;
+</style>
+<meta property="fb:app_id" content="128990640458592" />
+<meta property="og:site_name" content="BAOMOI.COM" />
+<meta property="og:rich_attachment" content="true" />
+<meta property="article:publisher" content="https://www.facebook.com/Baomoi" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="http://s.baomoi.xdn.vn/web/styles/img/facebook-thumb.png" />
+<meta property="og:image:width" content="560" />
+<meta property="og:image:height" content="292" />
+<meta property="og:url" content="http://www.baomoi.com/doan-thi-huong/t/2027322.epi" />
+<meta property="og:title" content="Đoàn Thị Hương" />
+<script type="application/ld+json">
+{
+"@context" : "http://schema.org",
+"@type" : "WebSite",
+"name" : "Đoàn Thị Hương",
+"alternateName" : "",
+"url" : "http://www.baomoi.com/doan-thi-huong/t/2027322.epi"
+}
+</script>
+<script type="text/javascript" src="http://s.baomoi.xdn.vn/web/js/plugins/modernizr/modernizr-2.8.3.min.js"></script>
+<script>
+(function (i, s, o, g, r, a, m) {
+i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+(i[r].q = i[r].q || []).push(arguments)
+}, i[r].l = 1 * new Date(); a = s.createElement(o),
+m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+ga('create', 'UA-309591-61', 'auto');
+ga('send', 'pageview', { 'page': window.location.pathname + window.location.search + window.location.hash });
+</script>
+<script>
+var _zap = _zap || [];
+_zap.push(["_setAccount", "ZA-43057452940626"]);
+(function (e, t, n, r, a, o, c) {
+e[a + "_q"] = e[a + "_q"] || [], e[a] = e[a] || {}; var s = ["trackPageview", "trackEvent", "getVisitorID"];
+for (i in s) e[a][s[i]] = function (t) { return function () { e[a + "_q"].push([t, arguments]) } }(s[i]);
+o = t.createElement(n), c = t.getElementsByTagName(n)[0], o.async = 1, o.src = r + "?" + Math.floor((new Date).getTime() / 86400000), c.parentNode.insertBefore(o, c)
+})(window, document, "script", "http://stc.za.zaloapp.com/v3/za.js", "ZA");
+</script>
+</head>
+<body>
+<header id="site-header">
+<div class="header-wrap">
+<a href="/" class="logo" title="Báo Mới"></a>
+<div class="hdr-content ">
+<p class="top-keywords" data-track="topkeywords"></p>
+<form class="search-box">
+<input type="text" class="search-keyword" placeholder="Nhập nội dung tìm kiếm">
+<button><i class="spr spr-search"></i></button>
+</form>
+<div class="login">
+<div id="profile"></div>
+<a id="social-login" href="javascript:;" data-animation="none" data-animationspeed="0" data-reveal-id="login-modal">Đăng nhập</a>
+<a class="go-mobile" href="javascript:;" data-target-host="http://m.baomoi.com">Phiên bản Mobile</a>
+</div>
+<div class="button-area" >
+<a href="/tin-nong.epi" class="hot" data-track="btn-tin-nong"><i class="spr spr-hot"></i><span>Tin nóng</span></a>
+<a href="/tin-moi.epi" class="news" data-track="btn-tin-moi"><i class="spr spr-news"></i><span>Tin mới</span></a>
+<a href="javascript:;" class="personal recommend" data-track="btn-de-xuat"><i class="spr spr-personal"></i><span>Đề xuất</span></a>
+</div>
+</div>
+</div>
+<nav class="navigation">
+<div class="header-wrap">
+<ul>
+<li class="parent home">
+<a href="/"><i class="spr spr-home"></i></a>
+</li>
+<li class="parent">
+<a href="/xa-hoi.epi" data-id="121">Xã hội</a>
+<ul class="child">
+<li>
+<a href="/thoi-su.epi" data-id="144">Thời sự</a>
+</li>
+<li>
+<a href="/giao-thong.epi" data-id="4">Giao thông</a>
+</li>
+<li>
+<a href="/moi-truong-khi-hau.epi" data-id="3">Môi trường - Khí hậu</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/the-gioi.epi" data-id="119">Thế giới</a>
+</li>
+<li class="parent">
+<a href="/van-hoa.epi" data-id="54">Văn hóa</a>
+<ul class="child">
+<li>
+<a href="/nghe-thuat.epi" data-id="15">Nghệ thuật</a>
+</li>
+<li>
+<a href="/am-thuc.epi" data-id="84">Ẩm thực</a>
+</li>
+<li>
+<a href="/du-lich.epi" data-id="137">Du lịch</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/kinh-te.epi" data-id="45">Kinh tế</a>
+<ul class="child">
+<li>
+<a href="/kinh-doanh.epi" data-id="7">Kinh doanh</a>
+</li>
+<li>
+<a href="/lao-dong-viec-lam.epi" data-id="47">Lao động - Việc làm</a>
+</li>
+<li>
+<a href="/tai-chinh.epi" data-id="126">Tài chính</a>
+</li>
+<li>
+<a href="/chung-khoan.epi" data-id="127">Chứng khoán</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/giao-duc.epi" data-id="59">Giáo dục</a>
+<ul class="child">
+<li>
+<a href="/hoc-bong-du-hoc.epi" data-id="107">Học bổng - Du học</a>
+</li>
+<li>
+<a href="/dao-tao-thi-cu.epi" data-id="108">Đào tạo - Thi cử</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/the-thao.epi" data-id="55">Thể thao</a>
+<ul class="child">
+<li>
+<a href="/bong-da.epi" data-id="87">Bóng đá</a>
+</li>
+<li>
+<a href="/quan-vot.epi" data-id="88">Quần vợt</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/giai-tri.epi" data-id="52">Giải trí</a>
+<ul class="child">
+<li>
+<a href="/am-nhac.epi" data-id="71">Âm nhạc</a>
+</li>
+<li>
+<a href="/thoi-trang.epi" data-id="72">Thời trang</a>
+</li>
+<li>
+<a href="/dien-anh-truyen-hinh.epi" data-id="132">Điện ảnh - Truyền hình</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/phap-luat.epi" data-id="58">Pháp luật</a>
+<ul class="child">
+<li>
+<a href="/hinh-su-dan-su.epi" data-id="104">Hình sự - Dân sự</a>
+</li>
+<li>
+<a href="/an-ninh-trat-tu.epi" data-id="141">An ninh - Trật tự</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/khoa-hoc-cong-nghe.epi" data-id="53">Khoa học - Công nghệ </a>
+<ul class="child">
+<li>
+<a href="/cntt-vien-thong.epi" data-id="76">CNTT - Viễn thông</a>
+</li>
+<li>
+<a href="/khoa-hoc-tu-nhien.epi" data-id="79">Khoa học - Tự nhiên</a>
+</li>
+<li>
+<a href="/thiet-bi-phan-cung.epi" data-id="136">Thiết bị - Phần cứng</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/doi-song.epi" data-id="33">Đời sống</a>
+<ul class="child">
+<li>
+<a href="/dinh-duong-lam-dep.epi" data-id="138">Dinh dưỡng - Làm đẹp</a>
+</li>
+<li>
+<a href="/tinh-yeu-hon-nhan.epi" data-id="139">Tình yêu - Hôn nhân</a>
+</li>
+<li>
+<a href="/suc-khoe-y-te.epi" data-id="82">Sức khỏe - Y tế</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/xe-co.epi" data-id="145">Xe cộ</a>
+</li>
+<li class="parent">
+<a href="/nha-dat.epi" data-id="147">Nhà đất</a>
+<ul class="child">
+<li>
+<a href="/quan-ly-quy-hoach.epi" data-id="148">Quản lý - Quy hoạch</a>
+</li>
+<li>
+<a href="/khong-gian-kien-truc.epi" data-id="150">Không gian - Kiến trúc</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</nav>
+</header>
+<div class="fyi-980 fyi-970 nocontent robots-nocontent" style="width:980px;height:90px;overflow:hidden" id="BaoMoi_Top"></div>
+<div class="site-wrap ">
+<section class="main category-page ">
+<div class="cat-content cluster">
+<section class="content-list" >
+<header>
+<h1 class="title">
+Đoàn Thị Hương
+</h1>
+</header>
+<article data-aid="21774250" >
+<figure>
+<a target="_blank" href="/doan-thi-huong-khai-bi-lua-tham-gia-vu-am-sat-ong-kim-chol/r/21774250.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/15/88/21774250/2_233001.jpg" alt="Đoàn Thị Hương khai bị lừa tham gia vụ ám sát ông Kim Chol">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/doan-thi-huong-khai-bi-lua-tham-gia-vu-am-sat-ong-kim-chol/r/21774250.epi" title="Đoàn Thị Hương khai bị lừa tham gia vụ ám sát ông Kim Chol">Đoàn Thị Hương khai bị lừa tham gia vụ ám sát ông Kim Chol</a>
+</h2>
+<p class="meta">
+<a href="/thethaovanhoa.vn-bao-the-thao-van-hoa-tt-vh/p/131.epi">TT&VH</a>
+<time class="friendly" datetime="2017-03-15T22:07:00+07:00"></time>
+<span>
+<a href="/doan-thi-huong-khai-bi-lua-tham-gia-vu-am-sat-ong-kim-chol/c/21774250.epi" title="Đoàn Thị Hương khai bị lừa tham gia vụ ám sát ông Kim Chol" class="spr spr-cache cache">Đoàn Thị Hương khai bị lừa tham gia vụ ám sát ông Kim Chol</a>
+</span>
+</p>
+<p class="summary">
+Chiều 15/3, đại diện Cục Lãnh sự, Bộ Ngoại giao cho biết đã thông tin về tình hình của Đoàn Thị Hương cho gia đình tại Nam Định.
+</p>
+</header>
+</article>
+<article data-aid="21774119" >
+<figure>
+<a target="_blank" href="/doan-thi-huong-tai-khang-dinh-bi-lua-tham-gia-vao-vu-sat-hai-kim-chol/r/21774119.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/15/25/21774119/2_118367.jpg" alt="Đoàn Thị Hương tái khẳng định bị lừa tham gia vào vụ sát hại Kim Chol">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/doan-thi-huong-tai-khang-dinh-bi-lua-tham-gia-vao-vu-sat-hai-kim-chol/r/21774119.epi" title="Đoàn Thị Hương tái khẳng định bị lừa tham gia vào vụ sát hại Kim Chol">Đoàn Thị Hương tái khẳng định bị lừa tham gia vào vụ sát hại Kim Chol</a>
+</h2>
+<p class="meta">
+<a href="/anninhthudo.vn-bao-an-ninh-thu-do-antd/p/106.epi">ANTĐ</a>
+<time class="friendly" datetime="2017-03-15T21:43:00+07:00"></time>
+<span>
+<a href="/doan-thi-huong-tai-khang-dinh-bi-lua-tham-gia-vao-vu-sat-hai-kim-chol/c/21774119.epi" title="Đoàn Thị Hương tái khẳng định bị lừa tham gia vào vụ sát hại Kim Chol" class="spr spr-cache cache">Đoàn Thị Hương tái khẳng định bị lừa tham gia vào vụ sát hại Kim Chol</a>
+</span>
+</p>
+<p class="summary">
+Sáng 15-3, đại diện Đại sứ quán Việt Nam tại Malaysia đã tới thăm lãnh sự công dân Đoàn Thị Hương. Công dân Đoàn Thị Hương cho biết bản thân hiện có sức khỏe tốt.
+</p>
+</header>
+</article>
+<article data-aid="21773756" >
+<figure>
+<a target="_blank" href="/doan-thi-huong-suc-khoe-tot-tai-khang-dinh-bi-lua/r/21773756.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/15/61/21773756/2_23570.jpg" alt="Đoàn Thị Hương sức khỏe tốt, tái khẳng định bị lừa">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/doan-thi-huong-suc-khoe-tot-tai-khang-dinh-bi-lua/r/21773756.epi" title="Đoàn Thị Hương sức khỏe tốt, tái khẳng định bị lừa">Đoàn Thị Hương sức khỏe tốt, tái khẳng định bị lừa</a>
+</h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-15T20:36:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/doan-thi-huong-suc-khoe-tot-tai-khang-dinh-bi-lua/c/21773756.epi" title="Đoàn Thị Hương sức khỏe tốt, tái khẳng định bị lừa" class="spr spr-cache cache">Đoàn Thị Hương sức khỏe tốt, tái khẳng định bị lừa</a>
+</span>
+</p>
+<p class="summary">
+Khi Đại sứ quán Việt Nam tại Malaysia tiếp xúc lãnh sự, Đoàn Thị Hương một lần nữa khẳng định cô bị lừa tham gia vào vụ sát hại người nghi là ông Kim Jong Nam.
+</p>
+</header>
+</article>
+<article data-aid="21773576" >
+<figure>
+<a target="_blank" href="/doan-thi-huong-suc-khoe-tot-noi-bi-lua-tham-gia-vu-sat-hai-ong-kim-chol/r/21773576.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/15/4/21773576/1_136881.jpg" alt="Đoàn Thị Hương sức khỏe tốt, nói bị lừa tham gia vụ sát hại ông Kim Chol">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/doan-thi-huong-suc-khoe-tot-noi-bi-lua-tham-gia-vu-sat-hai-ong-kim-chol/r/21773576.epi" title="Đoàn Thị Hương sức khỏe tốt, nói bị lừa tham gia vụ sát hại ông Kim Chol">Đoàn Thị Hương sức khỏe tốt, nói bị lừa tham gia vụ sát hại ông Kim Chol</a>
+</h2>
+<p class="meta">
+<a href="/thanhnien.vn-bao-thanh-nien-thanh-nien/p/19.epi">Thanh Niên</a>
+<time class="friendly" datetime="2017-03-15T20:00:19+07:00"></time>
+<span>
+<a href="/doan-thi-huong-suc-khoe-tot-noi-bi-lua-tham-gia-vu-sat-hai-ong-kim-chol/c/21773576.epi" title="Đoàn Thị Hương sức khỏe tốt, nói bị lừa tham gia vụ sát hại ông Kim Chol" class="spr spr-cache cache">Đoàn Thị Hương sức khỏe tốt, nói bị lừa tham gia vụ sát hại ông Kim Chol</a>
+</span>
+</p>
+<p class="summary">
+Tại cuộc gặp đại diện Đại sứ quán Việt Nam tại Malaysia sáng nay (15.3), Đoàn Thị Hương cho biết đã bị lừa tham gia vụ sát hại ông Kim Chol.
+</p>
+</header>
+</article>
+<article data-aid="21773788" >
+<figure>
+<a target="_blank" href="/doan-thi-huong-tiep-tuc-khang-dinh-minh-bi-lua-tham-gia-vu-am-sat/r/21773788.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/15/105/21773788/2_31782.jpg" alt="Đoàn Thị Hương tiếp tục khẳng định mình bị lừa tham gia vụ ám sát">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/doan-thi-huong-tiep-tuc-khang-dinh-minh-bi-lua-tham-gia-vu-am-sat/r/21773788.epi" title="Đoàn Thị Hương tiếp tục khẳng định mình bị lừa tham gia vụ ám sát">Đoàn Thị Hương tiếp tục khẳng định mình bị lừa tham gia vụ ám sát</a>
+</h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-15T19:58:00+07:00"></time>
+<span>
+<a href="/doan-thi-huong-tiep-tuc-khang-dinh-minh-bi-lua-tham-gia-vu-am-sat/c/21773788.epi" title="Đoàn Thị Hương tiếp tục khẳng định mình bị lừa tham gia vụ ám sát" class="spr spr-cache cache">Đoàn Thị Hương tiếp tục khẳng định mình bị lừa tham gia vụ ám sát</a>
+</span>
+</p>
+<p class="summary">
+Tại cuộc gặp đại diện Đại sứ quán Việt Nam tại Malaysia, Đoàn Thị Hương tái khẳng định, bị lừa tham gia vụ án sát hại công dân Triều Tiên.
+</p>
+</header>
+</article>
+<article data-aid="21773527" >
+<figure>
+<a target="_blank" href="/cong-dan-doan-thi-huong-noi-bi-lua-tham-gia-vu-sat-hai-ong-kim-chol/r/21773527.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/15/94/21773527/2_46972.jpg" alt="Công dân Đoàn Thị Hương nói bị lừa tham gia vụ sát hại ông Kim Chol">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/cong-dan-doan-thi-huong-noi-bi-lua-tham-gia-vu-sat-hai-ong-kim-chol/r/21773527.epi" title="Công dân Đoàn Thị Hương nói bị lừa tham gia vụ sát hại ông Kim Chol">Công dân Đoàn Thị Hương nói bị lừa tham gia vụ sát hại ông Kim Chol</a>
+</h2>
+<p class="meta">
+<a href="/vov.vn-bao-vov-vov/p/65.epi">VOV</a>
+<time class="friendly" datetime="2017-03-15T19:43:00+07:00"></time>
+<span>
+<a href="/cong-dan-doan-thi-huong-noi-bi-lua-tham-gia-vu-sat-hai-ong-kim-chol/c/21773527.epi" title="Công dân Đoàn Thị Hương nói bị lừa tham gia vụ sát hại ông Kim Chol" class="spr spr-cache cache">Công dân Đoàn Thị Hương nói bị lừa tham gia vụ sát hại ông Kim Chol</a>
+</span>
+</p>
+<p class="summary">
+Đoàn Thị Hương cho biết bản thân hiện có sức khỏe tốt và đã bị lừa tham gia vụ án sát hại ông Kim Chol, công dân Triều Tiên.
+</p>
+</header>
+</article>
+<article data-aid="21773468" >
+<figure>
+<a target="_blank" href="/dai-su-quan-viet-nam-tham-doan-thi-huong/r/21773468.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/15/24/21773468/1_27689.jpg" alt="Đại sứ quán Việt Nam thăm Đoàn Thị Hương">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/dai-su-quan-viet-nam-tham-doan-thi-huong/r/21773468.epi" title="Đại sứ quán Việt Nam thăm Đoàn Thị Hương">Đại sứ quán Việt Nam thăm Đoàn Thị Hương</a>
+</h2>
+<p class="meta">
+<a href="/www.tienphong.vn-bao-tien-phong-tien-phong/p/20.epi">Tiền Phong</a>
+<time class="friendly" datetime="2017-03-15T19:40:48+07:00"></time>
+<span>
+<a href="/dai-su-quan-viet-nam-tham-doan-thi-huong/c/21773468.epi" title="Đại sứ quán Việt Nam thăm Đoàn Thị Hương" class="spr spr-cache cache">Đại sứ quán Việt Nam thăm Đoàn Thị Hương</a>
+</span>
+</p>
+<p class="summary">
+Đại sứ quán Việt Nam tại Malaysia cùng Liên đoàn Luật sư Việt Nam đang thu xếp các biện pháp hỗ trợ pháp lý để bảo vệ quyền lợi hợp pháp của Đoàn Thị Hương, nghi phạm trong vụ án...
+</p>
+</header>
+</article>
+<article data-aid="21773242" >
+<figure>
+<a target="_blank" href="/doan-thi-huong-lai-khang-dinh-bi-lua-tham-gia-vu-am-sat/r/21773242.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/15/19/21773242/2_82025.jpg" alt="Đoàn Thị Hương lại khẳng định bị lừa tham gia vụ ám sát">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/doan-thi-huong-lai-khang-dinh-bi-lua-tham-gia-vu-am-sat/r/21773242.epi" title="Đoàn Thị Hương lại khẳng định bị lừa tham gia vụ ám sát">Đoàn Thị Hương lại khẳng định bị lừa tham gia vụ ám sát</a>
+</h2>
+<p class="meta">
+<a href="/nld.com.vn-bao-nguoi-lao-dong-nld/p/15.epi">NLĐ</a>
+<time class="friendly" datetime="2017-03-15T19:29:00+07:00"></time>
+<span>
+<a href="/doan-thi-huong-lai-khang-dinh-bi-lua-tham-gia-vu-am-sat/c/21773242.epi" title="Đoàn Thị Hương lại khẳng định bị lừa tham gia vụ ám sát" class="spr spr-cache cache">Đoàn Thị Hương lại khẳng định bị lừa tham gia vụ ám sát</a>
+</span>
+</p>
+<p class="summary">
+Gặp cán bộ Đại sứ quán Việt Nam tại Malaysia ngày 15-3, Đoàn Thị Hương cho biết bản thân hiện có sức khỏe tốt và tiếp tục khẳng định bị lừa tham gia vụ án sát hại ông Kim Chol,...
+</p>
+</header>
+</article>
+<article data-aid="21773387" >
+<figure>
+<a target="_blank" href="/thong-tin-ve-doan-thi-huong-sau-hon-1-thang-bi-bat/r/21773387.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/15/50/21773387/1_68675.jpg" alt="Thông tin về Đoàn Thị Hương sau hơn 1 tháng bị bắt">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/thong-tin-ve-doan-thi-huong-sau-hon-1-thang-bi-bat/r/21773387.epi" title="Thông tin về Đoàn Thị Hương sau hơn 1 tháng bị bắt">Thông tin về Đoàn Thị Hương sau hơn 1 tháng bị bắt</a>
+</h2>
+<p class="meta">
+<a href="/plo.vn-bao-phap-luat-tp-hcm-plo/p/114.epi">PLO</a>
+<time class="friendly" datetime="2017-03-15T19:23:00+07:00"></time>
+<span>
+<a href="/thong-tin-ve-doan-thi-huong-sau-hon-1-thang-bi-bat/c/21773387.epi" title="Thông tin về Đoàn Thị Hương sau hơn 1 tháng bị bắt" class="spr spr-cache cache">Thông tin về Đoàn Thị Hương sau hơn 1 tháng bị bắt</a>
+</span>
+</p>
+<p class="summary">
+Bộ Ngoại giao Việt Nam ngày 15-3 cho hay sáng cùng ngày, đại diện Đại sứ quán Việt Nam tại Malaysia đã tới thăm lãnh sự công dân Đoàn Thị Hương.
+</p>
+</header>
+</article>
+<article data-aid="21773176" >
+<figure>
+<a target="_blank" href="/dai-dien-bo-ngoai-giao-tham-nghi-pham-doan-thi-huong/r/21773176.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/15/27/21773176/2_58354.jpg" alt="Đại diện Bộ Ngoại giao thăm nghi phạm Đoàn Thị Hương">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/dai-dien-bo-ngoai-giao-tham-nghi-pham-doan-thi-huong/r/21773176.epi" title="Đại diện Bộ Ngoại giao thăm nghi phạm Đoàn Thị Hương">Đại diện Bộ Ngoại giao thăm nghi phạm Đoàn Thị Hương</a>
+</h2>
+<p class="meta">
+<a href="/ktdt.com.vn-bao-kinh-te-do-thi-ktdt/p/11.epi">KTĐT</a>
+<time class="friendly" datetime="2017-03-15T19:21:00+07:00"></time>
+<span>
+<a href="/dai-dien-bo-ngoai-giao-tham-nghi-pham-doan-thi-huong/c/21773176.epi" title="Đại diện Bộ Ngoại giao thăm nghi phạm Đoàn Thị Hương" class="spr spr-cache cache">Đại diện Bộ Ngoại giao thăm nghi phạm Đoàn Thị Hương</a>
+</span>
+</p>
+<p class="summary">
+Sáng ngày 15/3, đại diện Đại sứ quán Việt Nam tại Malaysia đã tới thăm lãnh sự công dân Đoàn Thị Hương.
+</p>
+</header>
+</article>
+<article data-aid="21773674" >
+<figure>
+<a target="_blank" href="/bo-ngoai-giao-thong-tin-tinh-hinh-doan-thi-huong-cho-gia-dinh-o-nam-dinh/r/21773674.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/15/214/21773674/1_87112.jpg" alt="Bộ Ngoại giao thông tin tình hình Đoàn Thị Hương cho gia đình ở Nam Định">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/bo-ngoai-giao-thong-tin-tinh-hinh-doan-thi-huong-cho-gia-dinh-o-nam-dinh/r/21773674.epi" title="Bộ Ngoại giao thông tin tình hình Đoàn Thị Hương cho gia đình ở Nam Định">Bộ Ngoại giao thông tin tình hình Đoàn Thị Hương cho gia đình ở Nam Định</a>
+</h2>
+<p class="meta">
+<a href="/infonet.vn-bao-infonet-infonet/p/240.epi">Infonet</a>
+<time class="friendly" datetime="2017-03-15T19:00:00+07:00"></time>
+<span>
+<a href="/bo-ngoai-giao-thong-tin-tinh-hinh-doan-thi-huong-cho-gia-dinh-o-nam-dinh/c/21773674.epi" title="Bộ Ngoại giao thông tin tình hình Đoàn Thị Hương cho gia đình ở Nam Định" class="spr spr-cache cache">Bộ Ngoại giao thông tin tình hình Đoàn Thị Hương cho gia đình ở Nam Định</a>
+</span>
+</p>
+<p class="summary">
+Sáng ngày 15/3/2017, đại diện Đại sứ quán Việt Nam tại Malaysia đã tới thăm lãnh sự công dân Đoàn Thị Hương.
+</p>
+</header>
+</article>
+<article data-aid="21757519" >
+<figure>
+<a target="_blank" href="/doan-thi-huong-co-duoc-dan-do-ve-viet-nam/r/21757519.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/14/283/21757519/2_136450.jpg" alt="Đoàn Thị Hương có được dẫn độ về Việt Nam?">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/doan-thi-huong-co-duoc-dan-do-ve-viet-nam/r/21757519.epi" title="Đoàn Thị Hương có được dẫn độ về Việt Nam?">Đoàn Thị Hương có được dẫn độ về Việt Nam?</a>
+</h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-14T07:12:00+07:00"></time>
+<span>
+<a href="/doan-thi-huong-co-duoc-dan-do-ve-viet-nam/c/21757519.epi" title="Đoàn Thị Hương có được dẫn độ về Việt Nam?" class="spr spr-cache cache">Đoàn Thị Hương có được dẫn độ về Việt Nam?</a>
+</span>
+</p>
+<p class="summary">
+“Mặc dù Việt Nam và Malaysia chưa có Hiệp định tương trợ tư pháp, tuy nhiên Đoàn Thị Hương vẫn có khả năng được dẫn độ về Việt Nam nếu dựa trên nguyên tắc có đi có lại”, Luật sư...
+</p>
+</header>
+</article>
+<article data-aid="21750883" >
+<figure>
+<a target="_blank" href="/malaysia-truy-quet-nu-lao-dong-khong-phep/r/21750883.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/13/4/21750883/1_88709.jpg" alt="Malaysia truy quét nữ lao động không phép">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/malaysia-truy-quet-nu-lao-dong-khong-phep/r/21750883.epi" title="Malaysia truy quét nữ lao động không phép">Malaysia truy quét nữ lao động không phép</a>
+</h2>
+<p class="meta">
+<a href="/thanhnien.vn-bao-thanh-nien-thanh-nien/p/19.epi">Thanh Niên</a>
+<time class="friendly" datetime="2017-03-13T10:51:08+07:00"></time>
+<span>
+<a href="/malaysia-truy-quet-nu-lao-dong-khong-phep/c/21750883.epi" title="Malaysia truy quét nữ lao động không phép" class="spr spr-cache cache">Malaysia truy quét nữ lao động không phép</a>
+</span>
+</p>
+<p class="summary">
+Cảnh sát Malaysia tăng cường các đợt truy quét nữ lao động không có giấy phép kể từ vụ công dân CHDCND Triều Tiên Kim Chol bị sát hại ở nước này hôm 13.2.
+</p>
+</header>
+</article>
+<article data-aid="21733420" >
+<figure>
+<a target="_blank" href="/canh-sat-malaysia-chinh-thuc-xac-nhan-thi-the-cua-ong-kim-jong-nam/r/21733420.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/10/4/21733420/1_462192.jpg" alt="Cảnh sát Malaysia chính thức xác nhận thi thể của ông Kim Jong-nam">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/canh-sat-malaysia-chinh-thuc-xac-nhan-thi-the-cua-ong-kim-jong-nam/r/21733420.epi" title="Cảnh sát Malaysia chính thức xác nhận thi thể của ông Kim Jong-nam">Cảnh sát Malaysia chính thức xác nhận thi thể của ông Kim Jong-nam</a>
+</h2>
+<p class="meta">
+<a href="/thanhnien.vn-bao-thanh-nien-thanh-nien/p/19.epi">Thanh Niên</a>
+<time class="friendly" datetime="2017-03-10T17:13:54+07:00"></time>
+<span>
+<a href="/canh-sat-malaysia-chinh-thuc-xac-nhan-thi-the-cua-ong-kim-jong-nam/c/21733420.epi" title="Cảnh sát Malaysia chính thức xác nhận thi thể của ông Kim Jong-nam" class="spr spr-cache cache">Cảnh sát Malaysia chính thức xác nhận thi thể của ông Kim Jong-nam</a>
+</span>
+</p>
+<p class="summary">
+Chánh thanh tra cảnh sát Malaysia ngày 10.3 chính thức xác nhận công dân CHDCND Triều Tiên bị sát hại tại sân bay Kuala Lumpur 2 ngày 13.2 là ông Kim Jong-nam, theo báo The Star.
+</p>
+</header>
+</article>
+<article data-aid="21719022" >
+<figure>
+<a target="_blank" href="/luat-su-viet-nam-se-sang-malaysia-ho-tro-phap-ly-cho-doan-thi-huong/r/21719022.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/09/94/21719022/2_70097.jpg" alt="Luật sư Việt Nam sẽ sang Malaysia hỗ trợ pháp lý cho Đoàn Thị Hương">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/luat-su-viet-nam-se-sang-malaysia-ho-tro-phap-ly-cho-doan-thi-huong/r/21719022.epi" title="Luật sư Việt Nam sẽ sang Malaysia hỗ trợ pháp lý cho Đoàn Thị Hương">Luật sư Việt Nam sẽ sang Malaysia hỗ trợ pháp lý cho Đoàn Thị Hương</a>
+</h2>
+<p class="meta">
+<a href="/vov.vn-bao-vov-vov/p/65.epi">VOV</a>
+<time class="friendly" datetime="2017-03-09T07:11:00+07:00"></time>
+<span>
+<a href="/luat-su-viet-nam-se-sang-malaysia-ho-tro-phap-ly-cho-doan-thi-huong/c/21719022.epi" title="Luật sư Việt Nam sẽ sang Malaysia hỗ trợ pháp lý cho Đoàn Thị Hương" class="spr spr-cache cache">Luật sư Việt Nam sẽ sang Malaysia hỗ trợ pháp lý cho Đoàn Thị Hương</a>
+</span>
+</p>
+<p class="summary">
+Hiện đã có 10 luật sư của Hà Nội tình nguyện hỗ trợ pháp lý cho Đoàn Thị Hương, người đang bị buộc tội mưu sát một công dân Triều Tiên ở Malaysia.
+</p>
+</header>
+</article>
+<article data-aid="21715012" >
+<figure>
+<a target="_blank" href="/tu-vu-doan-thi-huong-tu-thien-luon-tot-nhung-can-tinh-tao-dung-de-da-trang-xe-cat/r/21715012.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/08/283/21715012/2_122080.jpg" alt="Từ vụ Đoàn Thị Hương: Từ thiện luôn tốt nhưng cần tỉnh táo, đừng để &#39;dã tràng xe cát&#39;">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/tu-vu-doan-thi-huong-tu-thien-luon-tot-nhung-can-tinh-tao-dung-de-da-trang-xe-cat/r/21715012.epi" title="Từ vụ Đoàn Thị Hương: Từ thiện luôn tốt nhưng cần tỉnh táo, đừng để &#39;dã tràng xe cát&#39;">Từ vụ Đoàn Thị Hương: Từ thiện luôn tốt nhưng cần tỉnh táo, đừng để 'dã tràng xe cát'</a>
+</h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-08T15:26:00+07:00"></time>
+<span>
+<a href="/tu-vu-doan-thi-huong-tu-thien-luon-tot-nhung-can-tinh-tao-dung-de-da-trang-xe-cat/c/21715012.epi" title="Từ vụ Đoàn Thị Hương: Từ thiện luôn tốt nhưng cần tỉnh táo, đừng để &#39;dã tràng xe cát&#39;" class="spr spr-cache cache">Từ vụ Đoàn Thị Hương: Từ thiện luôn tốt nhưng cần tỉnh táo, đừng để 'dã tràng xe cát'</a>
+</span>
+</p>
+<p class="summary">
+Đoàn Thị Hương bị cáo bị buộc tội sát hại một công dân Triều Tiên đang đối mặt với án tử hình. Tuy nhiên, trước vụ việc này dư luận đang có 2 thái cực đối lập gây ra những màn...
+</p>
+</header>
+</article>
+<article data-aid="21711013" >
+<figure>
+<a target="_blank" href="/luat-su-ho-tro-phap-ly-cho-doan-thi-huong-the-nao/r/21711013.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/08/70/21711013/1_131749.jpg" alt="Luật sư hỗ trợ pháp lý cho Đoàn Thị Hương thế nào?">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/luat-su-ho-tro-phap-ly-cho-doan-thi-huong-the-nao/r/21711013.epi" title="Luật sư hỗ trợ pháp lý cho Đoàn Thị Hương thế nào?">Luật sư hỗ trợ pháp lý cho Đoàn Thị Hương thế nào?</a>
+</h2>
+<p class="meta">
+<a href="/www.baogiaothong.vn-bao-giao-thong-giao-thong/p/30.epi">Giao Thông</a>
+<time class="friendly" datetime="2017-03-08T08:22:13+07:00"></time>
+<span>
+<a href="/luat-su-ho-tro-phap-ly-cho-doan-thi-huong-the-nao/c/21711013.epi" title="Luật sư hỗ trợ pháp lý cho Đoàn Thị Hương thế nào?" class="spr spr-cache cache">Luật sư hỗ trợ pháp lý cho Đoàn Thị Hương thế nào?</a>
+</span>
+</p>
+<p class="summary">
+Nhiều luật sư đã sẵn sàng tự túc kinh phí để sang Malaysia hỗ trợ Đoàn Thị Hương...
+</p>
+</header>
+</article>
+<article data-aid="21698694" >
+<figure>
+<a target="_blank" href="/lien-doan-luat-su-se-dua-5-nguoi-sang-malaysia-ho-tro-phap-ly-cho-doan-thi-huong/r/21698694.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/06/214/21698694/1_45688.jpg" alt="Liên đoàn Luật sư sẽ đưa 5 người sang Malaysia hỗ trợ pháp lý cho Đoàn Thị Hương">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/lien-doan-luat-su-se-dua-5-nguoi-sang-malaysia-ho-tro-phap-ly-cho-doan-thi-huong/r/21698694.epi" title="Liên đoàn Luật sư sẽ đưa 5 người sang Malaysia hỗ trợ pháp lý cho Đoàn Thị Hương">Liên đoàn Luật sư sẽ đưa 5 người sang Malaysia hỗ trợ pháp lý cho Đoàn Thị Hương</a>
+</h2>
+<p class="meta">
+<a href="/infonet.vn-bao-infonet-infonet/p/240.epi">Infonet</a>
+<time class="friendly" datetime="2017-03-06T17:24:00+07:00"></time>
+<span>
+<a href="/lien-doan-luat-su-se-dua-5-nguoi-sang-malaysia-ho-tro-phap-ly-cho-doan-thi-huong/c/21698694.epi" title="Liên đoàn Luật sư sẽ đưa 5 người sang Malaysia hỗ trợ pháp lý cho Đoàn Thị Hương" class="spr spr-cache cache">Liên đoàn Luật sư sẽ đưa 5 người sang Malaysia hỗ trợ pháp lý cho Đoàn Thị Hương</a>
+</span>
+</p>
+<p class="summary">
+Tất cả 5 luật sư này sẽ sẽ tự lo kinh phí. Đây là lần đầu tiên các luật sư Việt Nam xin hỗ trợ pháp lý thiện nguyện cho nghi phạm người Việt bị xét xử ở nước ngoài.
+</p>
+</header>
+</article>
+<article data-aid="21697508" >
+<figure>
+<a target="_blank" href="/5-luat-su-tinh-nguyen-sang-malaysia-ho-tro-phap-ly-cho-doan-thi-huong/r/21697508.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/06/80/21697508/1_94617.jpg" alt="5 luật sư tình nguyện sang Malaysia hỗ trợ pháp lý cho Đoàn Thị Hương">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/5-luat-su-tinh-nguyen-sang-malaysia-ho-tro-phap-ly-cho-doan-thi-huong/r/21697508.epi" title="5 luật sư tình nguyện sang Malaysia hỗ trợ pháp lý cho Đoàn Thị Hương">5 luật sư tình nguyện sang Malaysia hỗ trợ pháp lý cho Đoàn Thị Hương</a>
+</h2>
+<p class="meta">
+<a href="/www.nongnghiep.vn-bao-nong-nghiep-vn-nong-nghiep/p/120.epi">Nông Nghiệp</a>
+<time class="friendly" datetime="2017-03-06T15:16:00+07:00"></time>
+<span>
+<a href="/5-luat-su-tinh-nguyen-sang-malaysia-ho-tro-phap-ly-cho-doan-thi-huong/c/21697508.epi" title="5 luật sư tình nguyện sang Malaysia hỗ trợ pháp lý cho Đoàn Thị Hương" class="spr spr-cache cache">5 luật sư tình nguyện sang Malaysia hỗ trợ pháp lý cho Đoàn Thị Hương</a>
+</span>
+</p>
+<p class="summary">
+Tự lo kinh phí, lần đầu tiên các luật sư Việt Nam xin tham gia trợ giúp pháp lý thiện nguyện cho nghi phạm người Việt bị xét xử ở nước ngoài.
+</p>
+</header>
+</article>
+<article data-aid="21696688" >
+<figure>
+<a target="_blank" href="/luat-su-cua-doan-thi-huong-nguoi-phien-dich-loi-khai-cua-huong-tai-toa-dich-sai/r/21696688.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/06/283/21696688/3_138726.png" alt="Luật sư của Đoàn Thị Hương: &#39;Người phiên dịch lời khai của Hương tại tòa dịch sai&#39;">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/luat-su-cua-doan-thi-huong-nguoi-phien-dich-loi-khai-cua-huong-tai-toa-dich-sai/r/21696688.epi" title="Luật sư của Đoàn Thị Hương: &#39;Người phiên dịch lời khai của Hương tại tòa dịch sai&#39;">Luật sư của Đoàn Thị Hương: 'Người phiên dịch lời khai của Hương tại tòa dịch sai'</a>
+</h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-06T14:03:00+07:00"></time>
+<span>
+<a href="/luat-su-cua-doan-thi-huong-nguoi-phien-dich-loi-khai-cua-huong-tai-toa-dich-sai/c/21696688.epi" title="Luật sư của Đoàn Thị Hương: &#39;Người phiên dịch lời khai của Hương tại tòa dịch sai&#39;" class="spr spr-cache cache">Luật sư của Đoàn Thị Hương: 'Người phiên dịch lời khai của Hương tại tòa dịch sai'</a>
+</span>
+</p>
+<p class="summary">
+Thông tin khá bất ngờ này được luật sư người Malaysia Selvam Shanmugam (người tình nguyện bào chữa cho Đoàn Thị Hương) chia sẻ với truyền thông trong nước.
+</p>
+</header>
+</article>
+<article data-aid="21695782" >
+<figure>
+<a target="_blank" href="/bo-doan-thi-huong-viet-gi-gui-con-gai/r/21695782.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/06/103/21695782/4_128437.jpeg" alt="Bố Đoàn Thị Hương viết gì gửi con gái?">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/bo-doan-thi-huong-viet-gi-gui-con-gai/r/21695782.epi" title="Bố Đoàn Thị Hương viết gì gửi con gái?">Bố Đoàn Thị Hương viết gì gửi con gái?</a>
+</h2>
+<p class="meta">
+<a href="/baodatviet.vn-bao-dat-viet-dat-viet/p/132.epi">Đất Việt</a>
+<time class="friendly" datetime="2017-03-06T11:37:00+07:00"></time>
+<span>
+<a href="/bo-doan-thi-huong-viet-gi-gui-con-gai/c/21695782.epi" title="Bố Đoàn Thị Hương viết gì gửi con gái?" class="spr spr-cache cache">Bố Đoàn Thị Hương viết gì gửi con gái?</a>
+</span>
+</p>
+<p class="summary">
+Cha đẻ Đoàn Thị Hương khi gặp luật sư người Malaysia nhận hỗ trợ pháp lý cho Hương đã gửi kèm một bức thư tay dành cho con gái.
+</p>
+</header>
+</article>
+<article data-aid="21695480" >
+<figure>
+<a target="_blank" href="/xet-xu-doan-thi-huong-tiet-lo-nhieu-thong-tin-moi-gay-bat-ngo/r/21695480.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/06/20/21695480/4_134009.gif" alt="Xét xử Đoàn Thị Hương: Tiết lộ nhiều thông tin mới gây bất ngờ">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/xet-xu-doan-thi-huong-tiet-lo-nhieu-thong-tin-moi-gay-bat-ngo/r/21695480.epi" title="Xét xử Đoàn Thị Hương: Tiết lộ nhiều thông tin mới gây bất ngờ">Xét xử Đoàn Thị Hương: Tiết lộ nhiều thông tin mới gây bất ngờ</a>
+</h2>
+<p class="meta">
+<a href="/giadinh.net.vn-bao-gia-dinh-xa-hoi-gd-xh/p/91.epi">GĐ&XH</a>
+<time class="friendly" datetime="2017-03-06T11:15:00+07:00"></time>
+<span>
+<a href="/xet-xu-doan-thi-huong-tiet-lo-nhieu-thong-tin-moi-gay-bat-ngo/c/21695480.epi" title="Xét xử Đoàn Thị Hương: Tiết lộ nhiều thông tin mới gây bất ngờ" class="spr spr-cache cache">Xét xử Đoàn Thị Hương: Tiết lộ nhiều thông tin mới gây bất ngờ</a>
+</span>
+</p>
+<p class="summary">
+Vụ án sát hại nạn nhân Kim Chol công dân quốc tịch Triều Tiên đã có thêm nhiều tình tiết mới. Đặc biệt nhiều thông tin mới gây bất ngờ liên quan đến Đoàn Thị Hương, nghi phạm có...
+</p>
+</header>
+</article>
+<article data-aid="21693595" >
+<figure>
+<a target="_blank" href="/bo-de-doan-thi-huong-nho-luat-su-chuyen-thu-tay-cho-con-gai/r/21693595.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/06/105/21693595/4_134066.jpg" alt="Bố đẻ Đoàn Thị Hương nhờ luật sư chuyển thư tay cho con gái">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/bo-de-doan-thi-huong-nho-luat-su-chuyen-thu-tay-cho-con-gai/r/21693595.epi" title="Bố đẻ Đoàn Thị Hương nhờ luật sư chuyển thư tay cho con gái">Bố đẻ Đoàn Thị Hương nhờ luật sư chuyển thư tay cho con gái</a>
+</h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-06T08:05:00+07:00"></time>
+<span>
+<a href="/bo-de-doan-thi-huong-nho-luat-su-chuyen-thu-tay-cho-con-gai/c/21693595.epi" title="Bố đẻ Đoàn Thị Hương nhờ luật sư chuyển thư tay cho con gái" class="spr spr-cache cache">Bố đẻ Đoàn Thị Hương nhờ luật sư chuyển thư tay cho con gái</a>
+</span>
+</p>
+<p class="summary">
+Luật sư Shanmugam, người bào chữa cho nghi phạm Đoàn Thị Hương trong vụ án sát hại một công dân Triều Tiên, đã về Nam Định gặp gỡ gia đình Hương. Phía gia đình Hương cũng chính...
+</p>
+</header>
+</article>
+<article data-aid="21693420" >
+<figure>
+<a target="_blank" href="/luat-su-daniel-shanmugam-tu-tin-chung-minh-doan-thi-huong-vo-toi/r/21693420.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/06/272/21693420/1_208708.jpg" alt="Luật sư Daniel Shanmugam tự tin chứng minh Đoàn Thị Hương vô tội">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/luat-su-daniel-shanmugam-tu-tin-chung-minh-doan-thi-huong-vo-toi/r/21693420.epi" title="Luật sư Daniel Shanmugam tự tin chứng minh Đoàn Thị Hương vô tội">Luật sư Daniel Shanmugam tự tin chứng minh Đoàn Thị Hương vô tội</a>
+</h2>
+<p class="meta">
+<a href="/www.nguoitieudung.com.vn-bao-nguoi-tieu-dung-nguoi-tieu-dung/p/305.epi">Người Tiêu Dùng</a>
+<time class="friendly" datetime="2017-03-06T07:42:00+07:00"></time>
+<span>
+<a href="/luat-su-daniel-shanmugam-tu-tin-chung-minh-doan-thi-huong-vo-toi/c/21693420.epi" title="Luật sư Daniel Shanmugam tự tin chứng minh Đoàn Thị Hương vô tội" class="spr spr-cache cache">Luật sư Daniel Shanmugam tự tin chứng minh Đoàn Thị Hương vô tội</a>
+</span>
+</p>
+<p class="summary">
+Luật sư người Malaysia Daniel Shanmugam (cùng luật sư Hà Hải của Việt Nam) vừa được gia đình Đoàn Thị Hương ký giấy đồng ý là người bào chữa cho cô tại tòa án ở Malaysia tự tin...
+</p>
+</header>
+</article>
+<div class="pagination pagination-centered">
+<span id="main_PagingList1_pager"><a class="active">1</a><a href="/doan-thi-huong/t/2027322/trang2.epi">2</a><a href="/doan-thi-huong/t/2027322/trang3.epi">3</a><a id="main_PagingList1_pager_nextControl" href="/doan-thi-huong/t/2027322/trang2.epi">»</a></span>
+</div>
+</section>
+<aside>
+<section class="zone">
+<header><a href="/tin-nong.epi">Tin nóng</a></header>
+<article data-aid="21774131" >
+<figure>
+<a target="_blank" href="/tam-dinh-chi-giam-thi-gian-lan-trong-ky-thi-hoc-sinh-gioi-tinh/r/21774131.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/15/274/21774131/1_75600.jpg" alt="Tạm đình chỉ giám thị “gian lận” trong kỳ thi học sinh giỏi tỉnh">
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/tam-dinh-chi-giam-thi-gian-lan-trong-ky-thi-hoc-sinh-gioi-tinh/r/21774131.epi" title="Tạm đình chỉ giám thị “gian lận” trong kỳ thi học sinh giỏi tỉnh">Tạm đình chỉ giám thị “gian lận” trong kỳ thi học sinh giỏi tỉnh</a></h2>
+<p class="meta">
+<a href="/thanhtra.com.vn-bao-thanh-tra-thanh-tra/p/308.epi">Thanh Tra</a>
+<time class="friendly" datetime="2017-03-15T21:44:00+07:00"></time>
+<span>
+<a href="/tam-dinh-chi-giam-thi-gian-lan-trong-ky-thi-hoc-sinh-gioi-tinh/c/21774131.epi" title="Tạm đình chỉ giám thị “gian lận” trong kỳ thi học sinh giỏi tỉnh" class="spr spr-cache cache">Tạm đình chỉ giám thị “gian lận” trong kỳ thi học sinh giỏi tỉnh</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21773756" >
+<figure>
+<a target="_blank" href="/doan-thi-huong-suc-khoe-tot-tai-khang-dinh-bi-lua/r/21773756.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/15/61/21773756/2_23570.jpg" alt="Đoàn Thị Hương sức khỏe tốt, tái khẳng định bị lừa">
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/doan-thi-huong-suc-khoe-tot-tai-khang-dinh-bi-lua/r/21773756.epi" title="Đoàn Thị Hương sức khỏe tốt, tái khẳng định bị lừa">Đoàn Thị Hương sức khỏe tốt, tái khẳng định bị lừa</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-15T20:36:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/doan-thi-huong-suc-khoe-tot-tai-khang-dinh-bi-lua/c/21773756.epi" title="Đoàn Thị Hương sức khỏe tốt, tái khẳng định bị lừa" class="spr spr-cache cache">Đoàn Thị Hương sức khỏe tốt, tái khẳng định bị lừa</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21773914" >
+<figure>
+<a target="_blank" href="/trinh-xuan-thanh-bi-khoi-to-vi-toi-tham-o-tai-san/r/21773914.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/15/198/21773914/1_54793.jpg" alt="Trịnh Xuân Thanh bị khởi tố vì tội tham ô tài sản">
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/trinh-xuan-thanh-bi-khoi-to-vi-toi-tham-o-tai-san/r/21773914.epi" title="Trịnh Xuân Thanh bị khởi tố vì tội tham ô tài sản">Trịnh Xuân Thanh bị khởi tố vì tội tham ô tài sản</a></h2>
+<p class="meta">
+<a href="/baotintuc.vn-bao-tin-tuc-ttxvn-tin-tuc-ttxvn/p/294.epi">Tin Tức TTXVN</a>
+<time class="friendly" datetime="2017-03-15T20:55:00+07:00"></time>
+<span>
+<a href="/trinh-xuan-thanh-bi-khoi-to-vi-toi-tham-o-tai-san/c/21773914.epi" title="Trịnh Xuân Thanh bị khởi tố vì tội tham ô tài sản" class="spr spr-cache cache">Trịnh Xuân Thanh bị khởi tố vì tội tham ô tài sản</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21773772" >
+<figure>
+<a target="_blank" href="/ra-soat-an-dam-o-tre-em-tren-toan-quoc/r/21773772.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/15/19/21773772/2_56124.jpg" alt="Rà soát án dâm ô trẻ em trên toàn quốc">
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/ra-soat-an-dam-o-tre-em-tren-toan-quoc/r/21773772.epi" title="Rà soát án dâm ô trẻ em trên toàn quốc">Rà soát án dâm ô trẻ em trên toàn quốc</a></h2>
+<p class="meta">
+<a href="/nld.com.vn-bao-nguoi-lao-dong-nld/p/15.epi">NLĐ</a>
+<time class="friendly" datetime="2017-03-15T20:19:00+07:00"></time>
+<span>
+<a href="/ra-soat-an-dam-o-tre-em-tren-toan-quoc/c/21773772.epi" title="Rà soát án dâm ô trẻ em trên toàn quốc" class="spr spr-cache cache">Rà soát án dâm ô trẻ em trên toàn quốc</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21773669" >
+<figure>
+<a target="_blank" href="/giam-doc-benh-vien-dung-tuyet-chieu-de-nguoi-me-bo-di-den-nhan-lai-con/r/21773669.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/15/4/21773669/1_108031.jpg" alt="Giám đốc bệnh viện dùng &#39;tuyệt chiêu&#39; để người mẹ bỏ đi đến nhận lại con">
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/giam-doc-benh-vien-dung-tuyet-chieu-de-nguoi-me-bo-di-den-nhan-lai-con/r/21773669.epi" title="Giám đốc bệnh viện dùng &#39;tuyệt chiêu&#39; để người mẹ bỏ đi đến nhận lại con">Giám đốc bệnh viện dùng 'tuyệt chiêu' để người mẹ bỏ đi đến nhận lại con</a></h2>
+<p class="meta">
+<a href="/thanhnien.vn-bao-thanh-nien-thanh-nien/p/19.epi">Thanh Niên</a>
+<time class="friendly" datetime="2017-03-15T20:04:00+07:00"></time>
+<span>
+<a href="/giam-doc-benh-vien-dung-tuyet-chieu-de-nguoi-me-bo-di-den-nhan-lai-con/c/21773669.epi" title="Giám đốc bệnh viện dùng &#39;tuyệt chiêu&#39; để người mẹ bỏ đi đến nhận lại con" class="spr spr-cache cache">Giám đốc bệnh viện dùng 'tuyệt chiêu' để người mẹ bỏ đi đến nhận lại con</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21774126" >
+<figure>
+<a target="_blank" href="/can-canh-chiec-tui-hermes-birkin-dat-do-nhat-hanh-tinh/r/21774126.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/15/24/21774126/9_179678.jpg" alt="Cận cảnh chiếc túi Hermes Birkin đắt đỏ nhất hành tinh">
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/can-canh-chiec-tui-hermes-birkin-dat-do-nhat-hanh-tinh/r/21774126.epi" title="Cận cảnh chiếc túi Hermes Birkin đắt đỏ nhất hành tinh">Cận cảnh chiếc túi Hermes Birkin đắt đỏ nhất hành tinh</a></h2>
+<p class="meta">
+<a href="/www.tienphong.vn-bao-tien-phong-tien-phong/p/20.epi">Tiền Phong</a>
+<time class="friendly" datetime="2017-03-15T21:31:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/can-canh-chiec-tui-hermes-birkin-dat-do-nhat-hanh-tinh/c/21774126.epi" title="Cận cảnh chiếc túi Hermes Birkin đắt đỏ nhất hành tinh" class="spr spr-cache cache">Cận cảnh chiếc túi Hermes Birkin đắt đỏ nhất hành tinh</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21773299" >
+<figure>
+<a target="_blank" href="/thien-hoa-hoc-tu-hinh-va-cuoc-song-nhu-dia-nguc-cho-ke-au-dam/r/21773299.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/15/61/21773299/3_79996.jpg" alt="Thiến hóa học, tử hình và cuộc sống như địa ngục cho kẻ ấu dâm">
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/thien-hoa-hoc-tu-hinh-va-cuoc-song-nhu-dia-nguc-cho-ke-au-dam/r/21773299.epi" title="Thiến hóa học, tử hình và cuộc sống như địa ngục cho kẻ ấu dâm">Thiến hóa học, tử hình và cuộc sống như địa ngục cho kẻ ấu dâm</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-15T19:32:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/thien-hoa-hoc-tu-hinh-va-cuoc-song-nhu-dia-nguc-cho-ke-au-dam/c/21773299.epi" title="Thiến hóa học, tử hình và cuộc sống như địa ngục cho kẻ ấu dâm" class="spr spr-cache cache">Thiến hóa học, tử hình và cuộc sống như địa ngục cho kẻ ấu dâm</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21774152" >
+<figure>
+<a target="_blank" href="/pho-thu-tuong-campuchia-sok-an-qua-doi-o-tuoi-66/r/21774152.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/15/88/21774152/1_41668.jpg" alt="Phó Thủ tướng Campuchia Sok An qua đời ở tuổi 66">
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/pho-thu-tuong-campuchia-sok-an-qua-doi-o-tuoi-66/r/21774152.epi" title="Phó Thủ tướng Campuchia Sok An qua đời ở tuổi 66">Phó Thủ tướng Campuchia Sok An qua đời ở tuổi 66</a></h2>
+<p class="meta">
+<a href="/thethaovanhoa.vn-bao-the-thao-van-hoa-tt-vh/p/131.epi">TT&VH</a>
+<time class="friendly" datetime="2017-03-15T21:50:00+07:00"></time>
+<span>
+<a href="/pho-thu-tuong-campuchia-sok-an-qua-doi-o-tuoi-66/c/21774152.epi" title="Phó Thủ tướng Campuchia Sok An qua đời ở tuổi 66" class="spr spr-cache cache">Phó Thủ tướng Campuchia Sok An qua đời ở tuổi 66</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21774197" >
+<figure>
+<a target="_blank" href="/khoi-to-nam-thanh-nien-cam-dao-cuop-ngan-hang-tai-da-nang/r/21774197.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/15/24/21774197/1_284638.jpg" alt="Khởi tố nam thanh niên cầm dao cướp ngân hàng tại Đà Nẵng">
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/khoi-to-nam-thanh-nien-cam-dao-cuop-ngan-hang-tai-da-nang/r/21774197.epi" title="Khởi tố nam thanh niên cầm dao cướp ngân hàng tại Đà Nẵng">Khởi tố nam thanh niên cầm dao cướp ngân hàng tại Đà Nẵng</a></h2>
+<p class="meta">
+<a href="/www.tienphong.vn-bao-tien-phong-tien-phong/p/20.epi">Tiền Phong</a>
+<time class="friendly" datetime="2017-03-15T22:03:46+07:00"></time>
+<span>
+<a href="/khoi-to-nam-thanh-nien-cam-dao-cuop-ngan-hang-tai-da-nang/c/21774197.epi" title="Khởi tố nam thanh niên cầm dao cướp ngân hàng tại Đà Nẵng" class="spr spr-cache cache">Khởi tố nam thanh niên cầm dao cướp ngân hàng tại Đà Nẵng</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21774119" >
+<figure>
+<a target="_blank" href="/doan-thi-huong-tai-khang-dinh-bi-lua-tham-gia-vao-vu-sat-hai-kim-chol/r/21774119.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/15/25/21774119/2_118367.jpg" alt="Đoàn Thị Hương tái khẳng định bị lừa tham gia vào vụ sát hại Kim Chol">
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/doan-thi-huong-tai-khang-dinh-bi-lua-tham-gia-vao-vu-sat-hai-kim-chol/r/21774119.epi" title="Đoàn Thị Hương tái khẳng định bị lừa tham gia vào vụ sát hại Kim Chol">Đoàn Thị Hương tái khẳng định bị lừa tham gia vào vụ sát hại Kim Chol</a></h2>
+<p class="meta">
+<a href="/anninhthudo.vn-bao-an-ninh-thu-do-antd/p/106.epi">ANTĐ</a>
+<time class="friendly" datetime="2017-03-15T21:43:00+07:00"></time>
+<span>
+<a href="/doan-thi-huong-tai-khang-dinh-bi-lua-tham-gia-vao-vu-sat-hai-kim-chol/c/21774119.epi" title="Đoàn Thị Hương tái khẳng định bị lừa tham gia vào vụ sát hại Kim Chol" class="spr spr-cache cache">Đoàn Thị Hương tái khẳng định bị lừa tham gia vào vụ sát hại Kim Chol</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</aside>
+</div>
+</section>
+<section class="sidebar">
+<div class="fyi-300 nocontent robots-nocontent" style="display:none;" id="BaoMoi_HalfPage"></div>
+<div class="fyi-300 nocontent robots-nocontent" style="width:300px;height:250px" id="BaoMoi_R1"></div>
+<div class="fyi-300 nocontent robots-nocontent" style="width:300px;height:250px" id="BaoMoi_R2"></div>
+<section id="photo-box" data-track="|video">
+<header>
+<h6>
+<a href="/tin-video.epi">Video</a>
+</h6>
+</header>
+<div class="slider">
+<article data-aid="21774230" >
+<figure>
+<a href="/nghe-nuong-ca-thu-tien-trieu-moi-ngay-o-ha-tinh/c/21774230.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/15/256/21774230/11_283441.jpg" alt="Nghề nướng cá thu tiền triệu mỗi ngày ở Hà Tĩnh">
+</a>
+</figure>
+<header>
+<h2><a href="/nghe-nuong-ca-thu-tien-trieu-moi-ngay-o-ha-tinh/c/21774230.epi" title="Nghề nướng cá thu tiền triệu mỗi ngày ở Hà Tĩnh">Nghề nướng cá thu tiền triệu mỗi ngày ở Hà Tĩnh</a></h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-15T22:00:20+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/nghe-nuong-ca-thu-tien-trieu-moi-ngay-o-ha-tinh/r/21774230.epi" title="Nghề nướng cá thu tiền triệu mỗi ngày ở Hà Tĩnh" class="spr spr-more" target="_blank">Nghề nướng cá thu tiền triệu mỗi ngày ở Hà Tĩnh</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21774138" >
+<figure>
+<a href="/hoa-minzy-khoa-moi-con-trai-nuoi-hoai-linh-trong-mv-moi/c/21774138.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/15/61/21774138/9_181556.jpg" alt="Hòa Minzy khóa môi con trai nuôi Hoài Linh trong MV mới">
+</a>
+</figure>
+<header>
+<h2><a href="/hoa-minzy-khoa-moi-con-trai-nuoi-hoai-linh-trong-mv-moi/c/21774138.epi" title="Hòa Minzy khóa môi con trai nuôi Hoài Linh trong MV mới">Hòa Minzy khóa môi con trai nuôi Hoài Linh trong MV mới</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-15T21:54:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/hoa-minzy-khoa-moi-con-trai-nuoi-hoai-linh-trong-mv-moi/r/21774138.epi" title="Hòa Minzy khóa môi con trai nuôi Hoài Linh trong MV mới" class="spr spr-more" target="_blank">Hòa Minzy khóa môi con trai nuôi Hoài Linh trong MV mới</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21774166" >
+<figure>
+<a href="/phoi-hop-dau-tranh-phong-chong-ma-tuy-trong-lua-tuoi-thanh-thieu-nien/c/21774166.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/15/25/21774166/1_28766.jpg" alt="Phối hợp đấu tranh, phòng chống ma túy trong lứa tuổi thanh, thiếu niên">
+</a>
+</figure>
+<header>
+<h2><a href="/phoi-hop-dau-tranh-phong-chong-ma-tuy-trong-lua-tuoi-thanh-thieu-nien/c/21774166.epi" title="Phối hợp đấu tranh, phòng chống ma túy trong lứa tuổi thanh, thiếu niên">Phối hợp đấu tranh, phòng chống ma túy trong lứa tuổi thanh, thiếu niên</a></h2>
+<p class="meta">
+<a href="/anninhthudo.vn-bao-an-ninh-thu-do-antd/p/106.epi">ANTĐ</a>
+<time class="friendly" datetime="2017-03-15T21:54:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/phoi-hop-dau-tranh-phong-chong-ma-tuy-trong-lua-tuoi-thanh-thieu-nien/r/21774166.epi" title="Phối hợp đấu tranh, phòng chống ma túy trong lứa tuổi thanh, thiếu niên" class="spr spr-more" target="_blank">Phối hợp đấu tranh, phòng chống ma túy trong lứa tuổi thanh, thiếu niên</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21774157" >
+<figure>
+<a href="/truyen-hinh-truc-tuyen-xam-hai-tinh-duc-tre-em-de-noi-dau-khong-tai-dien/c/21774157.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/15/297/21774157/1_73320.jpg" alt="Truyền hình trực tuyến: Xâm hại tình dục trẻ em, để nỗi đau không tái diễn">
+</a>
+</figure>
+<header>
+<h2><a href="/truyen-hinh-truc-tuyen-xam-hai-tinh-duc-tre-em-de-noi-dau-khong-tai-dien/c/21774157.epi" title="Truyền hình trực tuyến: Xâm hại tình dục trẻ em, để nỗi đau không tái diễn">Truyền hình trực tuyến: Xâm hại tình dục trẻ em, để nỗi đau không tái diễn</a></h2>
+<p class="meta">
+<a href="/thanhnien.vn-bao-thanh-nien-thanh-nien/p/19.epi">Thanh Niên</a>
+<time class="friendly" datetime="2017-03-15T21:40:02+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/truyen-hinh-truc-tuyen-xam-hai-tinh-duc-tre-em-de-noi-dau-khong-tai-dien/r/21774157.epi" title="Truyền hình trực tuyến: Xâm hại tình dục trẻ em, để nỗi đau không tái diễn" class="spr spr-more" target="_blank">Truyền hình trực tuyến: Xâm hại tình dục trẻ em, để nỗi đau không tái diễn</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21774145" >
+<figure>
+<a href="/hlv-ha-noi-fc-noi-gi-sau-tran-thang-dai-dien-singapore/c/21774145.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/15/111/21774145/2_59131.jpg" alt="HLV Hà Nội FC nói gì sau trận thắng đại diện Singapore?">
+</a>
+</figure>
+<header>
+<h2><a href="/hlv-ha-noi-fc-noi-gi-sau-tran-thang-dai-dien-singapore/c/21774145.epi" title="HLV Hà Nội FC nói gì sau trận thắng đại diện Singapore?">HLV Hà Nội FC nói gì sau trận thắng đại diện Singapore?</a></h2>
+<p class="meta">
+<a href="/www.bongda.com.vn-bong-da/p/306.epi">Bóng Đá</a>
+<time class="friendly" datetime="2017-03-15T21:37:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/hlv-ha-noi-fc-noi-gi-sau-tran-thang-dai-dien-singapore/r/21774145.epi" title="HLV Hà Nội FC nói gì sau trận thắng đại diện Singapore?" class="spr spr-more" target="_blank">HLV Hà Nội FC nói gì sau trận thắng đại diện Singapore?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21774092" >
+<figure>
+<a href="/rung-minh-nhin-ran-nuot-chung-ca-sau/c/21774092.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/15/105/21774092/1_22981.jpg" alt="&#39;Rùng mình&#39; nhìn rắn nuốt chửng cá sấu">
+</a>
+</figure>
+<header>
+<h2><a href="/rung-minh-nhin-ran-nuot-chung-ca-sau/c/21774092.epi" title="&#39;Rùng mình&#39; nhìn rắn nuốt chửng cá sấu">'Rùng mình' nhìn rắn nuốt chửng cá sấu</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-15T21:32:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/rung-minh-nhin-ran-nuot-chung-ca-sau/r/21774092.epi" title="&#39;Rùng mình&#39; nhìn rắn nuốt chửng cá sấu" class="spr spr-more" target="_blank">'Rùng mình' nhìn rắn nuốt chửng cá sấu</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21774116" >
+<figure>
+<a href="/thang-4-0-gonzalo-van-an-mung-kieu-dinh-luat/c/21774116.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/15/61/21774116/13_279056.jpg" alt="Thắng 4-0, Gonzalo vẫn ăn mừng kiểu Đình Luật">
+</a>
+</figure>
+<header>
+<h2><a href="/thang-4-0-gonzalo-van-an-mung-kieu-dinh-luat/c/21774116.epi" title="Thắng 4-0, Gonzalo vẫn ăn mừng kiểu Đình Luật">Thắng 4-0, Gonzalo vẫn ăn mừng kiểu Đình Luật</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-15T21:31:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/thang-4-0-gonzalo-van-an-mung-kieu-dinh-luat/r/21774116.epi" title="Thắng 4-0, Gonzalo vẫn ăn mừng kiểu Đình Luật" class="spr spr-more" target="_blank">Thắng 4-0, Gonzalo vẫn ăn mừng kiểu Đình Luật</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21774105" >
+<figure>
+<a href="/hang-cong-bung-no-ha-noi-de-bep-tampines-rovers-tai-my-dinh/c/21774105.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/15/111/21774105/2_37982.jpg" alt="Hàng công bùng nổ, Hà Nội đè bẹp Tampines Rovers tại Mỹ Đình">
+</a>
+</figure>
+<header>
+<h2><a href="/hang-cong-bung-no-ha-noi-de-bep-tampines-rovers-tai-my-dinh/c/21774105.epi" title="Hàng công bùng nổ, Hà Nội đè bẹp Tampines Rovers tại Mỹ Đình">Hàng công bùng nổ, Hà Nội đè bẹp Tampines Rovers tại Mỹ Đình</a></h2>
+<p class="meta">
+<a href="/www.bongda.com.vn-bong-da/p/306.epi">Bóng Đá</a>
+<time class="friendly" datetime="2017-03-15T21:30:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/hang-cong-bung-no-ha-noi-de-bep-tampines-rovers-tai-my-dinh/r/21774105.epi" title="Hàng công bùng nổ, Hà Nội đè bẹp Tampines Rovers tại Mỹ Đình" class="spr spr-more" target="_blank">Hàng công bùng nổ, Hà Nội đè bẹp Tampines Rovers tại Mỹ Đình</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21774017" >
+<figure>
+<a href="/chu-dau-tu-keu-kho-co-the-khac-phuc-cac-quy-dinh-ve-pccc/c/21774017.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/15/25/21774017/1_37634.jpg" alt="Chủ đầu tư kêu khó có thể khắc phục các quy định về PCCC">
+</a>
+</figure>
+<header>
+<h2><a href="/chu-dau-tu-keu-kho-co-the-khac-phuc-cac-quy-dinh-ve-pccc/c/21774017.epi" title="Chủ đầu tư kêu khó có thể khắc phục các quy định về PCCC">Chủ đầu tư kêu khó có thể khắc phục các quy định về PCCC</a></h2>
+<p class="meta">
+<a href="/anninhthudo.vn-bao-an-ninh-thu-do-antd/p/106.epi">ANTĐ</a>
+<time class="friendly" datetime="2017-03-15T21:19:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/chu-dau-tu-keu-kho-co-the-khac-phuc-cac-quy-dinh-ve-pccc/r/21774017.epi" title="Chủ đầu tư kêu khó có thể khắc phục các quy định về PCCC" class="spr spr-more" target="_blank">Chủ đầu tư kêu khó có thể khắc phục các quy định về PCCC</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21774002" >
+<figure>
+<a href="/sieu-pham-nga-ban-den-nhan-doi-tren-san-co-brazil/c/21774002.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/15/61/21774002/1_931867.gif" alt="Siêu phẩm &#39;ngả bàn đèn nhân đôi&#39; trên sân cỏ Brazil">
+</a>
+</figure>
+<header>
+<h2><a href="/sieu-pham-nga-ban-den-nhan-doi-tren-san-co-brazil/c/21774002.epi" title="Siêu phẩm &#39;ngả bàn đèn nhân đôi&#39; trên sân cỏ Brazil">Siêu phẩm 'ngả bàn đèn nhân đôi' trên sân cỏ Brazil</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-15T21:17:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/sieu-pham-nga-ban-den-nhan-doi-tren-san-co-brazil/r/21774002.epi" title="Siêu phẩm &#39;ngả bàn đèn nhân đôi&#39; trên sân cỏ Brazil" class="spr spr-more" target="_blank">Siêu phẩm 'ngả bàn đèn nhân đôi' trên sân cỏ Brazil</a>
+</span>
+</p>
+</header>
+</article>
+</div>
+</section>
+<section class="top-story">
+<ul class=" tab-header">
+<li class="active"><a href="#most-read" data-toggle="tab">Nóng trong ngày</a></li>
+<li><a href="#most-read7" data-toggle="tab">Trong tuần</a></li>
+</ul>
+<div id="top-story" class="tab-content">
+<div class="tab-pane active" id="most-read" data-track="|mostread">
+</div>
+<div class="tab-pane fade" id="most-read7" data-track="|mostread7">
+</div>
+</div>
+</section>
+<section class="social-idx">
+<header>
+<h6><a href="javascript:;">Theo dõi Báo Mới</a></h6>
+</header>
+<div class="social">
+<a href="https://www.facebook.com/baomoi/" target="_blank" class="fb">
+<span><i class="spr social-fb"></i></span>
+<span>Báo Mới<br>
+Fanpage</span>
+</a>
+<a href="https://www.facebook.com/baomoigiaitri/" class="fb">
+<span><i class="spr social-fb"></i></span>
+<span>Báo Mới<br>
+Giải Trí</span>
+</a>
+<a href="https://noti.baomoi.com/" target="_blank" class="noti">
+<span><i class="spr social-noti"></i></span>
+<span>Gửi tin nóng<br>
+cho bạn</span>
+</a>
+<a href="https://plus.google.com/+baomoi/posts" target="_blank" class="gplus">
+<span><i class="spr social-gplus"></i></span>
+<span>Google<br>
+Plus</span>
+</a>
+</div>
+</section>
+<section id="trending-list" data-track="|trending">
+<header>
+<h6>
+<a href="javascript:;">Xu hướng</a>
+</h6>
+</header>
+<div class="trending">
+<span class="up w5"><a href="/tag/u20-world-cup-2017.epi">U20 World Cup 2017</a></span>
+<span class="up w13"><a href="/tag/bản-lang.epi">Bản Lang</a></span>
+<span class="up w14"><a href="/tag/u20-honduras.epi">U20 Honduras</a></span>
+<span class="down w16"><a href="/tag/marc-albrighton.epi">Marc Albrighton</a></span>
+<span class="up w1"><a href="/tag/honduras.epi">honduras</a></span>
+<span class="down w19"><a href="/tag/pci.epi">PCI</a></span>
+<span class="down w4"><a href="/tag/guinea.epi">Guinea</a></span>
+<span class="up w2"><a href="/tag/u20-việt-nam.epi">U20 Việt Nam</a></span>
+<span class="up w7"><a href="/tag/thpt-nguyễn-sỹ-sách.epi">THPT Nguyễn Sỹ Sách</a></span>
+<span class="up w9"><a href="/tag/thpt-lê-viết-thuật.epi">thpt lê viết thuật</a></span>
+<span class="up w3"><a href="/tag/leicester.epi">Leicester</a></span>
+<span class="down w15"><a href="/tag/zambia.epi">Zambia</a></span>
+<span class=" w18"><a href="/tag/đèo-văn-thu.epi">Đèo Văn Thu</a></span>
+<span class="up w6"><a href="/tag/vck-u20-world-cup-2017.epi">VCK U20 World Cup 2017</a></span>
+<span class="down w10"><a href="/tag/vanuatu.epi">Vanuatu</a></span>
+<span class="up w17"><a href="/tag/sevilla.epi">sevilla</a></span>
+<span class="up w8"><a href="/tag/wes-morgan.epi">Wes Morgan</a></span>
+<span class="up w11"><a href="/tag/đèo-văn-siêng.epi">Đèo Văn Siêng</a></span>
+<span class="up w20"><a href="/tag/hoàng-anh-tuấn.epi">Hoàng Anh Tuấn</a></span>
+<span class=" w12"><a href="/tag/craig-shakespeare.epi">Craig Shakespeare</a></span>
+</div>
+</section>
+<div class="fyi-300 nocontent robots-nocontent" id="BaoMoi_MiddleRight_1"></div>
+<div class="fyi-300 nocontent robots-nocontent" id="BaoMoi_R3"></div>
+<div class="fyi-300 nocontent robots-nocontent" id="BaoMoi_R4"></div>
+</section>
+</div>
+<div class="fyi-980 fyi-970 nocontent robots-nocontent" style="clear: both;" id="BaoMoi_Footer"></div>
+<footer id="site-footer">
+<a href="/" class="logo" title="Báo Mới"></a>
+<form class="search-box">
+<input type="text" class="search-keyword" placeholder="Nhập nội dung tìm kiếm" value=''>
+<button><i class="spr spr-search"></i></button>
+</form>
+<section class="site-index ">
+<div>
+<h3>PHIÊN BẢN KHÁC</h3>
+<ul>
+<li><a href="http://s.baomoi.xdn.vn/tai-ung-dung-bao-moi.html" target="_blank">Báo Mới APPS</a></li>
+<li><a target="_blank" href="http://en.baomoi.com/">Báo Mới ENGLISH</a></li>
+<li><a target="_blank" href="http://blog.baomoi.com/">Báo Mới BLOG</a></li>
+</ul>
+</div>
+<div>
+<h3>LIÊN HỆ</h3>
+<ul>
+<li><a href="/staticpages/intro.epi">Giới thiệu</a></li>
+<li><a href="/staticpages/termsofuse.epi">Điều khoản sử dụng</a></li>
+<li><a href="http://adtima.vn/" target="_blank">Quảng cáo</a></li>
+</ul>
+</div>
+<div>
+<h3>NGƯỜI DÙNG</h3>
+<ul>
+<li><a href="/Widget/CreateWidget.aspx">Nhúng tin vào trang web</a></li>
+<li><a href="/Statistics/Report.aspx" target="_blank">Thống kê & So sánh</a></li>
+</ul>
+</div>
+</section>
+<div class="copyright">
+<hr>
+<div class="left">
+<p>
+BÁO MỚI thực hiện việc tổng hợp
+<br>
+và sắp xếp các thông tin tự động
+<br>
+bởi chương trình máy tính
+</p>
+</div>
+<div class="right">
+<p>Giấy phép số 46/GP-TTĐT do Sở Thông tin và Truyền thông Hà Nội cấp ngày 13/01/2012</p>
+<p>Đơn vị chủ quản: Công ty Cổ phần Công nghệ EPI * Chịu trách nhiệm: Nguyễn Thanh Tùng</p>
+<p>Địa chỉ: Tầng 7, Tòa nhà Báo Sinh Viên VN, D29 Phạm Văn Bạch, Yên Hòa, Cầu Giấy, Hà Nội</p>
+<p>
+Tel: (04) 3-212-3232 ext. 2947
+<i class="contact-baomoi"></i>
+</p>
+<p class="loadtime">Cung cấp trong: 14.49 ms.</p>
+</div>
+</div>
+</footer>
+<div id="login-modal" class="reveal-modal login">
+<header>Đăng nhập</header>
+<p>
+<a class="facebook" href="javascript:;" onclick="javascript:helloLogin('facebook')">Đăng nhập tài khoản Facebook</a>
+</p>
+<p>
+<a class="google" href="javascript:;" onclick="javascript:helloLogin('google')">Đăng nhập tài khoản Google</a>
+</p>
+<a class="close-reveal-modal">&#215;</a>
+</div>
+<div id="GDVNContainer" style="display: none"></div>
+<script type="text/javascript">
+function createGDVNIframe() {
+var i = document.createElement("iframe");
+i.src = "http://giaoduc.net.vn/Baomoi?utm_source=baomoi&utm_medium=seeding&utm_campaign=traffic";
+i.scrolling = "no";
+i.frameborder = "0";
+i.allowtransparency = "true";
+i.width = "1px";
+i.height = "1px";
+document.getElementById("GDVNContainer").appendChild(i);
+};
+</script>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Balloon"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Floating_Right"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Floating_Left"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Background_Right"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Background_Left"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Canvas"></div>
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" />
+<script src="http://s.baomoi.xdn.vn/web/js/baomoi-dist_17031510.js" async defer></script>
+<script src="http://static.adtimaserver.vn/resource/js/bm/web.0506.1.js" async defer></script>
+</body>
+</html> 

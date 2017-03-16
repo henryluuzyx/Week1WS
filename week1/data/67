@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Malaysia xác định thi thể Kim Jong Nam từ ADN con trai - Ngày Nay
+</title><meta name="keywords" content="Ahmad Zahid Hamidi,malaysia,triều tiên,Kim Jong Nam,ngoại giao,visa,Kim Chol,sân bay Kuala Lumpur,ADN,Kim Han Sol,Hãng tin Reuters,macau,vi-đê-ô,afp,hàn quốc,seoul,lưu vong" /><meta name="description" content="Chiều 15/3, Phó thủ tướng Malaysia, Ahmad Zahid Hamidi cho biết nước này đã sử dụng ADN của con trai ông Kim Jong Nam, từ đó xác định được danh tính của ngư..." />
+<link rel="canonical" href="http://www.baomoi.com/malaysia-xac-dinh-thi-the-kim-jong-nam-tu-adn-con-trai/c/21773328.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21773328" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21773328" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.ngaynay.vn/the-gioi/malaysia-xac-dinh-thi-the-kim-jong-nam-tu-adn-con-trai-42058.html");
+else
+window.location.replace("http://www.baomoi.com/malaysia-xac-dinh-thi-the-kim-jong-nam-tu-adn-con-trai/c/21773328.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

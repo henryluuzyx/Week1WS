@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+HLV Hà Nội FC nói gì sau trận thắng đại diện Singapore? - Bóng Đá
+</title><meta name="keywords" content="Tampines Rovers,Chu Đình Nghiêm,Jürgen Raab,Hà Nội FC,Singapore,người Đức,Hà Nội,Văn Quyết,Thanh Chương,chiến thắng,phát biểu,việt nam,vi-đê-ô" /><meta name="description" content="HLV Chu Đình Nghiêm khẳng định, Hà Nội FC đã có một trận đấu xuất sắc và xứng đáng với chiến thắng đậm đà trước Tampines Rovers của Singapore." />
+<link rel="canonical" href="http://www.baomoi.com/hlv-ha-noi-fc-noi-gi-sau-tran-thang-dai-dien-singapore/c/21774145.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21774145" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21774145" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.bongda.com.vn/hlv-ha-noi-fc-noi-gi-sau-tran-thang-dai-dien-singapore-d384556.html");
+else
+window.location.replace("http://www.baomoi.com/hlv-ha-noi-fc-noi-gi-sau-tran-thang-dai-dien-singapore/c/21774145.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

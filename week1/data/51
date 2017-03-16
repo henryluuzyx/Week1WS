@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Phối hợp đấu tranh, phòng chống ma túy trong lứa tuổi thanh, thiếu niên - ANTĐ
+</title><meta name="keywords" content="hội thảo,đấu tranh,đoàn thanh niên,phòng chống" /><meta name="description" content="Nâng cao vai trò, trách nhiệm của lực lượng công an và tổ chức đoàn thanh niên trong công tác phối hợp, đấu tranh, phòng chống ma túy lứa tuổi thanh thiếu n..." />
+<link rel="canonical" href="http://www.baomoi.com/phoi-hop-dau-tranh-phong-chong-ma-tuy-trong-lua-tuoi-thanh-thieu-nien/c/21774166.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21774166" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21774166" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://anninhthudo.vn/truyen-hinh-atv/phoi-hop-dau-tranh-phong-chong-ma-tuy-trong-lua-tuoi-thanh-thieu-nien/721329.antd");
+else
+window.location.replace("http://www.baomoi.com/phoi-hop-dau-tranh-phong-chong-ma-tuy-trong-lua-tuoi-thanh-thieu-nien/c/21774166.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

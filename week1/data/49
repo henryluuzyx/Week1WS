@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Truyền hình trực tuyến: Xâm hại tình dục trẻ em, để nỗi đau không tái diễn - Thanh Niên
+</title><meta name="keywords" content="lạm dụng tình dục trẻ em,bảo vệ,ngăn chặn,Trần Thị Ngọc Nữ,Nguyễn Thị Tâm,Đoàn Luật sư TP.HCM,tái diễn" /><meta name="description" content="Mỗi năm nước ta có hàng loạt vụ xâm hại tình dục trẻ em, hàng trăm nạn nhân là trẻ em, làm sao để ngăn chặn tội ác này và bảo vệ con em của chúng ta? Hãy cù..." />
+<link rel="canonical" href="http://www.baomoi.com/truyen-hinh-truc-tuyen-xam-hai-tinh-duc-tre-em-de-noi-dau-khong-tai-dien/c/21774157.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21774157" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21774157" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://media.thanhnien.com.vn/truc-tuyen/truyen-hinh-truc-tuyen-xam-hai-tinh-duc-tre-em-de-noi-dau-khong-tai-dien-82216.html");
+else
+window.location.replace("http://www.baomoi.com/truyen-hinh-truc-tuyen-xam-hai-tinh-duc-tre-em-de-noi-dau-khong-tai-dien/c/21774157.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

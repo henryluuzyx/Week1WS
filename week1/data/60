@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Người dân có cá chết được hỗ trợ 80 nghìn/1kg - Tiền Phong
+</title><meta name="keywords" content="Châu Quang,Châu Cường,Quỳ Hợp,Châu Thành,Nghệ Tĩnh,ô nhiễm,suối Nậm Huống,Đồng Lụm,UBND xã Châu Quang,Đồng Huống,Công ty CP Kim,núi Lan Toong,Quang Hương,Huyện Quỳ Hợp,Nguyễn Ngọc Nam,Trần Văn Tuấn,Quang Thịnh,khai thác,gây hậu quả nghiêm trọng,bảo vệ môi trường,sản xuất" /><meta name="description" content="Đoàn công tác của Bộ Tài nguyên Môi trường đã vào hiện trường kiểm tra, đồng thời Công ty CP Kim loại màu Nghệ Tĩnh cũng tiến hành hỗ trợ người dân sau sự c..." />
+<link rel="canonical" href="http://www.baomoi.com/nguoi-dan-co-ca-chet-duoc-ho-tro-80-nghin-1kg/c/21773223.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21773223" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21773223" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.tienphong.vn/xa-hoi/nguoi-dan-co-ca-chet-duoc-ho-tro-80-nghin1kg-1130659.tpo");
+else
+window.location.replace("http://www.baomoi.com/nguoi-dan-co-ca-chet-duoc-ho-tro-80-nghin-1kg/c/21773223.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

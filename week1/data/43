@@ -1,0 +1,723 @@
+<!doctype html>
+<!--[if IE 7]><html lang="en" class="ie7"></html><![endif]-->
+<!--[if IE 8]><html lang="en" class="ie8"></html><![endif]-->
+<!--[if IE 9]><html lang="en" class="ie9"></html><![endif]-->
+<!-- [if gt IE 9] <!-->
+<html lang="en">
+<!-- <![endif]-->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="language" content="en" />
+    <meta name="robots" content="index, follow" />
+
+    <!--<meta name="google-site-verification" content="eau3gGflzg9BouNSsVKrx_mR5f0HbSLuvDKznJ3AE1k" />-->
+
+    <meta name="google-site-verification" content="nsV1o2gWlgNI0d7amNezlNilgzm47WT4bNIgJPV_wjk" />
+    <meta name="msvalidate.01" content="E52E0AECFFC89B1959FC75D368D4B11E" />
+    <meta name="robots" content="noarchive, noodp">
+
+    <link rel="shortcut icon" href="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/images/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/css/flexslider.min.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/css/plug-in-cmt.min.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/css/jscroll.min.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/css/jquery.fancybox.min.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/css/jquery.fancybox-buttons.min.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/css/jquery.fancybox-thumbs.min.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/css/font-awesome.min.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/css/screen.min.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/css/custom.min.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/css/print.min.css" media="print" />
+    <!-- <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/css/video-js.css" media="screen" /> -->
+    <!-- <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/css/videojs.vast.vpaid.css" media="screen" /> -->
+    <!--[if lt IE 9]><script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/js/html5.js"></script><![endif]-->
+    <script src="https://cdn.radiantmediatechs.com/rmp/v3/latest/js/rmp.min.js"></script>
+
+    <meta property="fb:app_id" content="787960244659509" />
+<meta property="og:title" content="Tin tức, sự kiện liên quan đến &#039;Infographic&#039; - Tuổi Trẻ Online" />
+<meta property="og:site_name" content="Tuổi Trẻ Online" />
+<meta property="og:url" content="http://tuoitre.vn/chu-de/infographic/421587html" />
+<meta property="og:description" content="Cập nhật tin tức, sự kiện nóng nhất xung quanh vấn đề &#039;Infographic&#039; được bạn đọc quan tâm nhất trên Tuổi Trẻ Online" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="vi_VN" />
+<meta property="article:author" content="https://www.facebook.com/baotuoitre" />
+<meta property="article:publisher" content="https://www.facebook.com/baotuoitre" />
+<meta name="description" content="Cập nhật tin tức, sự kiện nóng nhất xung quanh vấn đề &#039;Infographic&#039; được bạn đọc quan tâm nhất trên Tuổi Trẻ Online" />
+<meta name="keywords" content="&#039;Infographic&#039; - Tuổi Trẻ Online" />
+<meta itemprop="genre" name="medium" content="news" />
+<meta itemprop="inLanguage" content="vi-VN" />
+<meta itemprop="sourceOrganization" name="source" content="Tuổi Trẻ Online" />
+<meta name="description" content="Cập nhật tin tức, sự kiện nóng nhất xung quanh vấn đề &#039;Infographic&#039; được bạn đọc quan tâm nhất trên Tuổi Trẻ Online" />
+<meta name="keywords" content="&#039;Infographic&#039; - Tuổi Trẻ Online" />
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/js/jquery.min.js"></script>
+<title>Tin tức, sự kiện liên quan đến 'Infographic' - Tuổi Trẻ Online</title>
+
+    
+    <!-- Google Analytics -->
+    <!--<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-12518695-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>-->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-46730129-1', 'auto');
+    ga('require', 'displayfeatures');
+    ga('send', 'pageview');
+</script>
+
+    <!-- Facebook Analytics -->
+    <!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '913371738775010');
+    fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=913371738775010&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Facebook Pixel Code -->
+    <!--  Start Custom Script-->
+    
+    <!--  Start Required Script-->
+    <script type="text/javascript">
+    String.prototype.endsWith = function(suffix) {
+        return this.indexOf(suffix, this.length - suffix.length) !== -1;
+    };
+    function activeMenu() {
+        var url = window.location.href;
+        var domain = window.location.protocol + "//" + document.domain;
+        // var isSubDomain = url.match(new RegExp(/^([a-z]+\:\/{2})?([\w-]+\.[\w-]+\.\w+)$/)) ? true : false;
+        var diaocDomain = "http://batdongsan.tuoitre.vn/";
+        var tuyensinhDomain = "http://tuyensinh.tuoitre.vn/";
+        var rootDomain = "http://tuoitre.vn/";
+        $('.wrapper-nav nav.nav-main > ul > li a').filter(function () {
+            $(this).removeClass('active');
+            var currentHref = this.href.endsWith('/') ? this.href : this.href + "/";
+            var currentUrl = url.endsWith('/') ? url : url + "/";
+            var currentDomain = domain.endsWith('/') ? domain : domain + "/";
+
+            var temp = $(this).closest('li').not('li:first-child');
+            var active = false;
+
+            if (typeof temp === 'undefined') {
+
+            } else {
+                // compare domain with current href on tag <a>
+                //if (currentDomain.length == currentHref.length && isSubDomain === false && currentHref == currentUrl) {
+                if (currentUrl == rootDomain && currentHref == rootDomain) {
+                    $(this).closest('li').addClass("active");
+                } else {
+                    if (currentHref === currentUrl) {
+                        active = true;
+                    } else if (currentUrl.substring(0, currentHref.length) === currentHref) {
+                        active = true;
+                    }
+                }
+
+                if (active) {
+                    temp.addClass('active');
+                    temp.find("div.mega-menu").attr("display:block");
+                }
+
+                // special condition
+                if (active && currentDomain == diaocDomain && diaocDomain == currentHref) {
+                    temp.parents("li").addClass("active");
+                } else if (active && currentDomain == tuyensinhDomain && tuyensinhDomain == currentHref) {
+                    temp.parents("li").addClass("active");
+                }
+            }
+        });
+
+        // select home page
+        var menuSelected = $('nav.nav-main > ul > li.active');
+        if(menuSelected == 'undefined' || menuSelected.length == 0){
+            $('nav.nav-main > ul > li:first-child').addClass('active');
+        }
+    }
+</script></head>
+<body>
+<div class="wrapper wrapper-search">
+    <style type="text/css">.wrapper-search .wrapper-nav {margin-bottom: 0}</style>
+    <header class="header">
+        
+<ul class="top-menu">
+	<!--<li class="active"><a href="http://tuoitre.vn/tin/tuoi-tre-cuoi-tuan" title="Chuyên trang Tuổi Trẻ cuối tuần">Tuổi Trẻ Cuối Tuần</a></li>-->
+	<li><a href="http://cuoituan.tuoitre.vn/" target="_blank" title="Chuyên trang Tuổi Trẻ cuối tuần">Tuổi Trẻ Cuối Tuần</a></li>
+	<li><a href="http://tv.tuoitre.vn/" target="_blank" title="Chuyên trang Truyền Hình Tuổi Trẻ">Truyền Hình Tuổi Trẻ</a></li>
+	<li><a href="http://tuoitrenews.vn/" target="_blank"  title="Tuoitrenews.vn">Tuoitrenews</a></li>
+</ul>
+<ul class="list-social">
+	<li><a href="tel:0918033133" title="0918.033.133">0918.033.133</a></li>
+	<li class="btn-sethome"><a href="javascript:void(0);">Đặt làm trang chủ</a></li>
+	<li><a class="btn-set" href="http://pay.tuoitre.vn/dat-bao" title="Đặt báo Online">Đặt báo Tuổi Trẻ</a></li>
+	<li><a class="icon-social icon-facebook" href="https://www.facebook.com/baotuoitre" target="_blank" title="Quan tâm Tuổi Trẻ trên Facebook">facebook</a></li>
+	<li><a class="icon-social icon-tw" href="https://twitter.com/tuoitre_tphcm" target="_blank" title="Quan tâm Tuổi Trẻ trên Twitter">twitter</a></li>
+	<li><a class="icon-social icon-zing" href="http://me.zing.vn/b/tuoitre.vn" title="zing">zing</a></li>
+	<li><a class="icon-social icon-google" href="https://plus.google.com/107706664902384479582" target="_blank" title="Quan tâm Tuổi Trẻ trên Google Plus">googleplus</a></li>
+	<li><a class="icon-social icon-ytobe" href="https://www.youtube.com/channel/UCrwJa6KRHWnJpJPZNeKKcvA" target="_blank" title="Quan tâm Tuổi Trẻ trên Youtube">youtube</a></li>
+</ul><div class="bottom-header">
+	<div class="outer-logo">
+		<p>Thứ 4, Ngày 15.03.2017</p>
+		<a href="http://tuoitre.vn/"title="Tuổi Trẻ Online"><img alt="logo" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/images/logo.png" /></a>
+	</div>
+	<div class="block-banner">
+        <div id="topad">
+  
+</div>	</div>
+</div>
+    </header>
+    <div class="wrapper-nav" id="main-menu-tto"><nav class="nav-main"><ul class="clearfix"><li><a title="Home" href="http://tuoitre.vn">Home</a></li><li><a title="Chính trị - Xã hội" href="http://tuoitre.vn/tin/chinh-tri-xa-hoi">Chính trị - Xã hội</a></li><li><a title="Thế giới" href="http://tuoitre.vn/tin/the-gioi">Thế giới</a></li><li><a title="Pháp luật" href="http://tuoitre.vn/tin/phap-luat">Pháp luật</a></li><li><a title="Kinh tế" href="http://tuoitre.vn/tin/kinh-te">Kinh tế</a></li><li><a title="Sống khỏe" href="http://tuoitre.vn/tin/song-khoe">Sống khỏe</a></li><li><a title="Giáo dục" href="http://tuoitre.vn/tin/giao-duc">Giáo dục</a></li><li><a title="iTuyển sinh" href="http://tuyensinh.tuoitre.vn">iTuyển sinh</a></li><li><a title="Thể thao" href="http://thethao.tuoitre.vn">Thể thao</a></li><li><a title="Văn hóa - Giải trí" href="http://tuoitre.vn/tin/van-hoa-giai-tri">Văn hóa - Giải trí</a></li><li><a title="Nhịp sống trẻ" href="http://tuoitre.vn/tin/nhip-song-tre">Nhịp sống trẻ</a></li><li><a title="Nhịp sống số" href="http://nhipsongso.tuoitre.vn">Nhịp sống số</a></li><li><a title="Bạn đọc" href="http://tuoitre.vn/tin/ban-doc">Bạn đọc</a></li><li><a title="Du lịch" href="http://dulich.tuoitre.vn">Du lịch</a></li><li><a title="Cần biết" href="http://tuoitre.vn/tin/can-biet">Cần biết</a></li></ul></nav></div>    <script type="text/javascript">
+        activeMenu();
+    </script>
+			<div class="wrapper-slider">
+			 <div class="flexslider-1">
+				<ul class="slides">
+									<li>
+						<a href="http://tuoitre.vn/tin/phap-luat/20170315/khoi-to-nguoi-gia-danh-nha-bao/1280882.html">
+							Chạy quá tốc độ còn móc thẻ hội viên nhà báo giả ra "hù"															<span class="i-comments"><i class="fa fa-comments"></i> 1</span> 													</a>
+					</li>
+									<li>
+						<a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/20170315/hoat-dong-4-nam-du-chua-xac-nhan-cong-trinh-bao-ve-moi-truong/1280879.html">
+							Hoạt động 4 năm dù chưa xác nhận công trình bảo vệ môi trường 																												</a>
+					</li>
+									<li>
+						<a href="http://tuoitre.vn/tin/the-gioi/20170315/thu-tuong-trung-quoc-tuyen-bo-se-day-nhanh-dam-phan-coc/1280876.html">
+							Thủ tướng Trung Quốc tuyên bố sẽ đẩy nhanh đàm phán COC																												</a>
+					</li>
+									<li>
+						<a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/20170315/ubnd-tphcm-xin-loi-dan-viec-dieu-chinh-tim-tuyen-duong-hong-ha/1280840.html">
+							UBND TP.HCM xin lỗi dân việc điều chỉnh tim tuyến đường Hồng Hà 																												</a>
+					</li>
+									<li>
+						<a href="http://thethao.tuoitre.vn/tin/20170315/diem-tin-toi-153-lee-eun-hee-chien-thang-tai-tp-vung-tau/1280870.html">
+							Điểm tin tối 15-3: ​HLV New Zealand cẩn trọng trước U-20 VN																												</a>
+					</li>
+								</ul>
+			</div>
+			<a class="btn-rss" href="http://tuoitre.vn/rss" title="RSS">RSS<i class="fa fa-rss-square"></i></a>
+			<form class="frm-search" id="search-frm" method="GET" action="http://tuoitre.vn/tim-kiem/gool/">
+				<input name="q" class="txt-search" type="text" placeholder="Nội dung cần tìm" />
+				<input class="btn-search" type="submit" value="" />
+			</form>
+		</div>
+	    <section class="main">
+        <section class="content">
+            	        <div class="highlight highlight-2">
+            <h1 class="title-tag clearfix"> Infographic<input type="hidden" value="176" name="total" id="total" /></h1>
+            <div id="tag_contents" class="newhot_most_content">
+                            <div class="block-left block-top">
+                                            <a href="http://tuoitre.vn/tin/kinh-te/20170314/xu-huong-tich-cuc-va-tieu-cuc-trong-dieu-hanh-kinh-te-dia-phuong/1279967.html" class="image">
+                            <img src="http://static.new.tuoitre.vn/tto/i/s146/2017/03/14/xu-huong-tich-cuc-pci-1489468094.jpg"alt=""/>                        </a>
+                                        <span class="date date-1">14/03/2017 11:56</span>
+                    <h3>
+                        <a title="Những cái tốt và xấu trong điều hành kinh tế các tỉnh, thành" href="http://tuoitre.vn/tin/kinh-te/20170314/xu-huong-tich-cuc-va-tieu-cuc-trong-dieu-hanh-kinh-te-dia-phuong/1279967.html">
+                            Những cái tốt và xấu trong điều hành kinh tế các tỉnh, thành                                                                                                                </a>
+                    </h3>
+                    <p>TTO - Bản báo cáo năng lực cạnh tranh cấp tỉnh (PCI) 2016 đã điểm lại các xu hướng tích cực và tiêu cực điều hành kinh tế chung của các tỉnh, thành phố Việt Nam trong giai đoạn 2006-2016.</p>
+                </div>
+                            <div class="block-left ">
+                                            <a href="http://tuoitre.vn/tin/interactive/20170225/37-diem-un-tac-tai-tphcm-nguoi-dan-can-tranh/1270232.html" class="image">
+                            <img src="http://static.new.tuoitre.vn/tto/i/s146/2017/02/24/screen-shot-2017-02-24-at-17-23-40-1487931862.png"alt=""/>                        </a>
+                                        <span class="date date-1">25/02/2017 10:54</span>
+                    <h3>
+                        <a title="37 điểm ùn tắc tại TP.HCM người dân cần biết" href="http://tuoitre.vn/tin/interactive/20170225/37-diem-un-tac-tai-tphcm-nguoi-dan-can-tranh/1270232.html">
+                            37 điểm ùn tắc tại TP.HCM người dân cần biết                                                            <span class="i-comments"><i class="fa fa-comments"></i> 21</span>                                                     </a>
+                    </h3>
+                    <p>TTO - TP.HCM hiện có 37 điểm có nguy cơ ùn tắc giao thông, tăng 11 điểm so với năm 2016. TP.HCM đang đề ra các giải pháp kéo giảm kẹt xe trong năm 2017.</p>
+                </div>
+                            <div class="block-left ">
+                                            <a href="http://tuoitre.vn/tin/the-gioi/20170220/nhin-lai-30-ngay-dau-tien-ong-trump-lam-tong-thong-my/1267744.html" class="image">
+                            <img src="http://static.new.tuoitre.vn/tto/i/s146/2017/02/20/donald-trump-thumail-1487583792.jpg"alt=""/>                        </a>
+                                        <span class="date date-1">20/02/2017 12:58</span>
+                    <h3>
+                        <a title="Nhìn lại 30 ngày đầu tiên ông Trump làm Tổng thống Mỹ" href="http://tuoitre.vn/tin/the-gioi/20170220/nhin-lai-30-ngay-dau-tien-ong-trump-lam-tong-thong-my/1267744.html">
+                            Nhìn lại 30 ngày đầu tiên ông Trump làm Tổng thống Mỹ                                                                                                                </a>
+                    </h3>
+                    <p>TTO - Trong 30 ngày đầu tiên làm Tổng thống Mỹ, với cây bút trên tay cùng đội ngũ cố vấn sau lưng, ông Donald Trump đã ký ban hành nhiều quyết sách quan trọng. Không ít trong số đó đã tạo dư luận trái chiều. </p>
+                </div>
+                            <div class="block-left ">
+                                            <a href="http://tuoitre.vn/tin/ban-doc/20170203/vut-rac-bua-bai-tieu-bay-se-bi-phat-gap-10-lan/1259236.html" class="image">
+                            <img src="http://static.new.tuoitre.vn/tto/i/s146/2017/02/03/vut-rac-tren-duong-bi-phat-den-7-trieu-dong-1486090874-1486094322.jpg"alt=""/>                        </a>
+                                        <span class="date date-1">03/02/2017 10:06</span>
+                    <h3>
+                        <a title="Vứt rác bừa bãi, tiểu bậy... sẽ bị phạt gấp 10 lần" href="http://tuoitre.vn/tin/ban-doc/20170203/vut-rac-bua-bai-tieu-bay-se-bi-phat-gap-10-lan/1259236.html">
+                            Vứt rác bừa bãi, tiểu bậy... sẽ bị phạt gấp 10 lần                                                            <span class="i-comments"><i class="fa fa-comments"></i> 39</span>                                                     </a>
+                    </h3>
+                    <p>TTO - Từ 1-2, theo nghị định 155/2016 của Chính phủ (quy định về xử phạt vi phạm hành chính trong lĩnh vực bảo vệ môi trường), mức phạt với những vi phạm về vệ sinh nơi công cộng tăng hơn gấp 10 lần so với trước.</p>
+                </div>
+                            <div class="block-left ">
+                                            <a href="http://tuoitre.vn/tin/giao-duc/20170202/infographic-nhung-dieu-can-biet-ve-ky-thi-thpt-quoc-gia-2017/1258828.html" class="image">
+                            <img src="http://static.new.tuoitre.vn/tto/i/s146/2017/02/02/info-1486010377.jpg"alt=""/>                        </a>
+                                        <span class="date date-1">02/02/2017 11:42</span>
+                    <h3>
+                        <a title="Infographic những điều cần biết về kỳ thi THPT quốc gia 2017" href="http://tuoitre.vn/tin/giao-duc/20170202/infographic-nhung-dieu-can-biet-ve-ky-thi-thpt-quoc-gia-2017/1258828.html">
+                            Infographic những điều cần biết về kỳ thi THPT quốc gia 2017                                                                                                                </a>
+                    </h3>
+                    <p>TTO - Kỳ thi THPT quốc gia 2017 có điểm gì đáng lưu ý. Mời bạn đọc xem những điều cần biết về kỳ thi THPT quốc gia 2017. </p>
+                </div>
+                            <div class="block-left ">
+                                            <a href="http://tuoitre.vn/tin/interactive/20170120/duong-den-nha-trang-khac-thuong-cua-ong-donald-trump/1254340.html" class="image">
+                            <img src="http://static.new.tuoitre.vn/tto/i/s146/2017/01/18/bgd-main-1484735364.jpg"alt=""/>                        </a>
+                                        <span class="date date-1">20/01/2017 11:38</span>
+                    <h3>
+                        <a title="​Đường đến Nhà Trắng khác thường của ông Donald Trump" href="http://tuoitre.vn/tin/interactive/20170120/duong-den-nha-trang-khac-thuong-cua-ong-donald-trump/1254340.html">
+                            ​Đường đến Nhà Trắng khác thường của ông Donald Trump                                                            <span class="i-comments"><i class="fa fa-comments"></i> 5</span>                                                     </a>
+                    </h3>
+                    <p>TTO - Ngày 20-1, ông Donald Trump sẽ chính thức nhậm chức tổng thống Mỹ. Là một tỉ phú, ông Trump tham chính theo cách không giống ai. Quan điểm, hành động của ông tạo ra nhiều phản ứng đặc biệt.</p>
+                </div>
+                            <div class="block-left ">
+                                            <a href="http://sukien2016.tuoitre.vn" class="image">
+                            <img src="http://static.new.tuoitre.vn/tto/i/s146/2016/12/31/thumnail-quoc-te-1483155262.jpg"alt=""/>                        </a>
+                                        <span class="date date-1">31/12/2016 09:04</span>
+                    <h3>
+                        <a title="Thế giới năm 2016, ai thành công, ai thất bại?" href="http://sukien2016.tuoitre.vn">
+                            Thế giới năm 2016, ai thành công, ai thất bại?                                                                                                                </a>
+                    </h3>
+                    <p>TTO - Rất nhiều sự kiện lớn trên thế giới trong năm 2016 đã và sẽ tác động mạnh mẽ đến toàn thế giới bằng nhiều cách khác nhau. Mời bạn đọc cùng đi sâu vào từng sự kiện để có thêm góc nhìn về bức tranh thế giới năm 2016. </p>
+                </div>
+                            <div class="block-left ">
+                                            <a href="http://tuoitre.vn/tin/van-hoa-giai-tri/20161227/nam-2016-ngam-ngui-chia-tay-nhieu-nghe-si-lon/1241638.html" class="image">
+                            <img src="http://static.new.tuoitre.vn/tto/i/s146/2016/12/21/nghe-si-da-chet-1482318147.jpg"alt=""/>                        </a>
+                                        <span class="date date-1">27/12/2016 15:30</span>
+                    <h3>
+                        <a title="Năm 2016, ngậm ngùi chia tay nhiều nghệ sĩ lớn" href="http://tuoitre.vn/tin/van-hoa-giai-tri/20161227/nam-2016-ngam-ngui-chia-tay-nhieu-nghe-si-lon/1241638.html">
+                            Năm 2016, ngậm ngùi chia tay nhiều nghệ sĩ lớn                                                            <span class="i-comments"><i class="fa fa-comments"></i> 11</span> <span class="i-photos"><i class="fa fa-picture-o"></i></span>                                                     </a>
+                    </h3>
+                    <p>TTO - Năm 2016 nhiều nghệ sĩ tên tuổi đã chia tay chúng ta. Có người vì tuổi cao sức yếu, nhưng cũng có người ra đi rất bất ngờ, để lại nhiều dự án nghệ thuật dang dở trong niềm tiếc thương của người hâm mộ. </p>
+                </div>
+                            <div class="block-left ">
+                                            <a href="http://tuoitre.vn/tin/the-gioi/20161204/90-nam-cuoc-doi-lanh-tu-fidel-castro/1229998.html" class="image">
+                            <img src="http://static.new.tuoitre.vn/tto/i/s146/2016/12/04/15303911-604678543071591-196839958-o-1480780530-1480818584.jpg"alt=""/>                        </a>
+                                        <span class="date date-1">04/12/2016 07:30</span>
+                    <h3>
+                        <a title="90 năm cuộc đời lãnh tụ Fidel Castro" href="http://tuoitre.vn/tin/the-gioi/20161204/90-nam-cuoc-doi-lanh-tu-fidel-castro/1229998.html">
+                            90 năm cuộc đời lãnh tụ Fidel Castro                                                                                                                </a>
+                    </h3>
+                    <p>TTO - Hôm nay 4-12, Việt Nam để tang lãnh tụ Fidel Castro theo nghi thức quốc tang để tỏ lòng thương tiếc người bạn lớn, người đồng chí, anh em vô cùng gần gũi và thân thiết của Đảng, Nhà nước và nhân dân. Cùng Tuổi Trẻ nhìn lại 90 năm cuộc đời của Người.</p>
+                </div>
+                            <div class="block-left ">
+                                            <a href="http://tuoitre.vn/tin/ban-doc/20161201/tuoi-tre-online-tri-an-va-cho-don-tin-bai-ban-doc/1228546.html" class="image">
+                            <img src="http://static.new.tuoitre.vn/tto/i/s146/2016/12/01/thumbnail-tto-1480556224.jpg"alt=""/>                        </a>
+                                        <span class="date date-1">01/12/2016 08:44</span>
+                    <h3>
+                        <a title="Tuổi Trẻ Online tri ân và chờ đón tin bài bạn đọc" href="http://tuoitre.vn/tin/ban-doc/20161201/tuoi-tre-online-tri-an-va-cho-don-tin-bai-ban-doc/1228546.html">
+                            Tuổi Trẻ Online tri ân và chờ đón tin bài bạn đọc                                                            <span class="i-comments"><i class="fa fa-comments"></i> 15</span>                                                     </a>
+                    </h3>
+                    <p>TTO - Trong năm qua, hàng trăm ngàn tin bài của bạn đọc từ khắp mọi miền đất nước đã gửi về cộng tác với Tuổi Trẻ Online (TTO). Những phản ánh của bạn đọc trong các vấn đề xã hội là điều TTO luôn mong chờ và trân quý. </p>
+                </div>
+                            <div class="block-left ">
+                                            <a href="http://tuoitre.vn/tin/the-gioi/20161127/nhung-cot-moc-trong-cuoc-doi-va-su-nghiep-lanh-tu-fidel-castro/1226281.html" class="image">
+                            <img src="http://static.new.tuoitre.vn/tto/i/s146/2016/11/27/26112016-castro-reuters-4read-only-1480209315.jpg"alt=""/>                        </a>
+                                        <span class="date date-1">27/11/2016 09:01</span>
+                    <h3>
+                        <a title="Những cột mốc trong cuộc đời và sự nghiệp lãnh tụ Fidel Castro" href="http://tuoitre.vn/tin/the-gioi/20161127/nhung-cot-moc-trong-cuoc-doi-va-su-nghiep-lanh-tu-fidel-castro/1226281.html">
+                            Những cột mốc trong cuộc đời và sự nghiệp lãnh tụ Fidel Castro                                                            <span class="i-comments"><i class="fa fa-comments"></i> 5</span>                                                     </a>
+                    </h3>
+                    <p>TTO - Ra đi ở tuổi 90, hơn nửa thế kỷ với cương vị là người đứng đầu và lãnh tụ cách mạng Cuba, cuộc đời và sự nghiệp của lãnh tụ Fidel Castro qua một số cột mốc đáng chú ý.</p>
+                </div>
+                            <div class="block-left ">
+                                            <a href="http://tuoitre.vn/tin/kinh-te/20161122/nhan-dien-thit-heo-sach-bang-dien-thoai-nhu-the-nao/1220710.html" class="image">
+                            <img src="http://static.new.tuoitre.vn/tto/i/s146/2016/11/22/thi-heo-ban-1479786798.jpg"alt=""/>                        </a>
+                                        <span class="date date-1">22/11/2016 11:08</span>
+                    <h3>
+                        <a title="Nhận diện thịt heo sạch bằng điện thoại như thế nào?" href="http://tuoitre.vn/tin/kinh-te/20161122/nhan-dien-thit-heo-sach-bang-dien-thoai-nhu-the-nao/1220710.html">
+                            Nhận diện thịt heo sạch bằng điện thoại như thế nào?                                                            <span class="i-comments"><i class="fa fa-comments"></i> 11</span>                                                     </a>
+                    </h3>
+                    <p>TTO - Chương trình nhận diện và truy xuất nguồn gốc thịt heo bằng công nghệ thông tin sẽ được thí điểm từ 10-12-2016 và triển khai chính thức toàn thành phố từ 1-3-2017.</p>
+                </div>
+                        </div>
+        </div>
+
+                    <div id="readmore" class="readmore">
+                <a class="btn-readmore" href="javascript:void(0);" onClick="return viewMoreESTag('http://tuoitre.vn/', 'chu-de', '437', 'tto_custom_list', '932828f975f42a51d023e78b97353a348ccc4a60', 421587, this);">
+                    <span id="viewmore">Xem thêm</span><span id="loading" style="display: none;">Đang tải thêm ...</span>
+                </a>
+            </div>
+            <input type="hidden" id="page_number" value="1" />
+            <input type="hidden" id="tag_id" value="0" />
+                
+
+
+
+	        </section>
+        <aside class="sidebar">
+            <div class="block-ad" style="height:250px!important; overflow:hidden; padding-bottom: 6px!important;" >
+         <script type="text/javascript" language="javascript" src="http://s.tuoitre.vn/DominoX/script/ads_right_300x250_1.js"></script>
+</div>	<!-- Chuyên mục con -->
+			<div class="block-left ">
+			<h2 class="title">
+				<a href="/tin/chinh-tri-xa-hoi" title="Chính trị - Xã hội">
+					Chính trị - Xã hội				</a>
+			</h2>
+						<div class="feature-1">
+				<a class="thumbs img_80_45" title="Hoạt động 4 năm dù chưa xác nhận công trình bảo vệ môi trường " href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/20170315/hoat-dong-4-nam-du-chua-xac-nhan-cong-trinh-bao-ve-moi-truong/1280879.html">
+					<img src="http://static.new.tuoitre.vn/tto/i/s146/2017/03/15/a2-doan-cong-tac-bo-cong-thuong-1489585991.jpg"alt="Hoạt động 4 năm dù chưa xác nhận công trình bảo vệ môi trường "/>				</a>
+				<a title="Hoạt động 4 năm dù chưa xác nhận công trình bảo vệ môi trường " href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/20170315/hoat-dong-4-nam-du-chua-xac-nhan-cong-trinh-bao-ve-moi-truong/1280879.html">
+					Hoạt động 4 năm dù chưa xác nhận công trình bảo vệ môi trường 																				</a>
+			</div>
+						<ul class="list-1">
+								<li>
+					<a title="UBND TP.HCM xin lỗi dân việc điều chỉnh tim tuyến đường Hồng Hà " href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/20170315/ubnd-tphcm-xin-loi-dan-viec-dieu-chinh-tim-tuyen-duong-hong-ha/1280840.html">
+						UBND TP.HCM xin lỗi dân việc điều chỉnh tim tuyến đường Hồng Hà 																								</a>
+				</li>
+								<li>
+					<a title="Đại sứ quán Việt Nam tại Malaysia thăm Đoàn Thị Hương. " href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/20170315/dai-su-quan-viet-nam-tai-malaysia-tham-doan-thi-huong/1280837.html">
+						Đại sứ quán Việt Nam tại Malaysia thăm Đoàn Thị Hương. 																								</a>
+				</li>
+								<li>
+					<a title="4 ngày ra quân, CSGT Hà Nội xử phạt 6.641 xe" href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/20170315/4-ngay-ra-quan-csgt-ha-noi-xu-phat-6641-xe/1280852.html">
+						4 ngày ra quân, CSGT Hà Nội xử phạt 6.641 xe																								</a>
+				</li>
+								<li>
+					<a title="​Phải chi trả dứt điểm cho người bị thiệt hại do Formosa trong tháng 6" href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/20170315/phai-chi-tra-dut-diem-cho-nguoi-bi-thiet-hai-do-formosa-trong-thang-6/1280834.html">
+						​Phải chi trả dứt điểm cho người bị thiệt hại do Formosa trong tháng 6																								</a>
+				</li>
+							</ul>
+					</div>
+
+	<!-- Một ảnh cột giữa -->
+		<!-- Chuyên mục con -->
+			<div class="block-left ">
+			<h2 class="title">
+				<a href="/tin/the-gioi" title="Thế giới">
+					Thế giới				</a>
+			</h2>
+						<div class="feature-1">
+				<a class="thumbs img_80_45" title="Thủ tướng Trung Quốc tuyên bố sẽ đẩy nhanh đàm phán COC" href="http://tuoitre.vn/tin/the-gioi/20170315/thu-tuong-trung-quoc-tuyen-bo-se-day-nhanh-dam-phan-coc/1280876.html">
+					<img src="http://static.new.tuoitre.vn/tto/i/s146/2017/03/15/41907624---15-03-2017---china-parliament--1489585840.jpg"alt="Thủ tướng Trung Quốc tuyên bố sẽ đẩy nhanh đàm phán COC"/>				</a>
+				<a title="Thủ tướng Trung Quốc tuyên bố sẽ đẩy nhanh đàm phán COC" href="http://tuoitre.vn/tin/the-gioi/20170315/thu-tuong-trung-quoc-tuyen-bo-se-day-nhanh-dam-phan-coc/1280876.html">
+					Thủ tướng Trung Quốc tuyên bố sẽ đẩy nhanh đàm phán COC																				</a>
+			</div>
+						<ul class="list-1">
+								<li>
+					<a title="Mỹ cắt tiền tài trợ, đòi cải tổ ở Liên Hiệp Quốc" href="http://tuoitre.vn/tin/the-gioi/20170315/my-cat-tien-tai-tro-doi-cai-to-o-lien-hiep-quoc/1280714.html">
+						Mỹ cắt tiền tài trợ, đòi cải tổ ở Liên Hiệp Quốc																								</a>
+				</li>
+								<li>
+					<a title="Malaysia xác định thi thể Kim Jong Nam từ ADN con trai" href="http://tuoitre.vn/tin/the-gioi/20170315/malaysia-xac-nhan-duoc-kim-jong-nam-tu-adn-con-trai/1280711.html">
+						Malaysia xác định thi thể Kim Jong Nam từ ADN con trai													<span class="i-comments"><i class="fa fa-comments"></i> 3</span> 											</a>
+				</li>
+								<li>
+					<a title="Nhiều sĩ quan cấp cao Mỹ chết vì mê ăn chơi" href="http://tuoitre.vn/tin/the-gioi/20170315/nhieu-si-quan-cap-cao-my-chet-vi-me-an-choi/1280639.html">
+						Nhiều sĩ quan cấp cao Mỹ chết vì mê ăn chơi																								</a>
+				</li>
+								<li>
+					<a title="Tướng Mỹ cứng họng vì bê bối ảnh khỏa thân" href="http://tuoitre.vn/tin/the-gioi/20170315/tuong-my-cung-hong-vi-be-boi-anh-khoa-than/1280678.html">
+						Tướng Mỹ cứng họng vì bê bối ảnh khỏa thân																								</a>
+				</li>
+							</ul>
+					</div>
+
+	<!-- Một ảnh cột giữa -->
+	<div class="block-ad" style="overflow:hidden;clear:both">
+<script type="text/javascript" language="javascript" src="http://s.tuoitre.vn/DominoX/script/ads_right_300x250_2.js"></script>
+</div>
+	<!-- Chuyên mục con -->
+			<div class="block-left ">
+			<h2 class="title">
+				<a href="http://tuoitre.vn/tin/kinh-te" title="Kinh tế">
+					Kinh tế				</a>
+			</h2>
+						<div class="feature-1">
+				<a class="thumbs img_80_45" title="​Xây dựng quy chế kinh doanh phục vụ du khách Trung Quốc" href="http://tuoitre.vn/tin/kinh-te/20170315/xay-dung-quy-che-kinh-doanh-phuc-vu-du-khach-trung-quoc/1280846.html">
+					<img src="http://static.new.tuoitre.vn/tto/i/s146/2017/03/15/2017315-khach-trung-quoc-den-honmun-anh-phansongngan-1489581436.jpg"alt="​Xây dựng quy chế kinh doanh phục vụ du khách Trung Quốc"/>				</a>
+				<a title="​Xây dựng quy chế kinh doanh phục vụ du khách Trung Quốc" href="http://tuoitre.vn/tin/kinh-te/20170315/xay-dung-quy-che-kinh-doanh-phuc-vu-du-khach-trung-quoc/1280846.html">
+					​Xây dựng quy chế kinh doanh phục vụ du khách Trung Quốc																				</a>
+			</div>
+						<ul class="list-1">
+								<li>
+					<a title="​Vàng chững lại chờ tin lãi suất" href="http://tuoitre.vn/tin/kinh-te/20170315/vang-chung-lai-cho-tin-lai-suat/1280822.html">
+						​Vàng chững lại chờ tin lãi suất																								</a>
+				</li>
+								<li>
+					<a title="Hơn 70% thực phẩm tại TP.HCM từ các tỉnh và nhập khẩu" href="http://tuoitre.vn/tin/kinh-te/20170315/hon-70-thuc-pham-tai-tphcm-tu-cac-tinh-va-nhap-khau/1280798.html">
+						Hơn 70% thực phẩm tại TP.HCM từ các tỉnh và nhập khẩu																								</a>
+				</li>
+								<li>
+					<a title="Dán tem cột đo xăng dầu chống thất thu thuế" href="http://tuoitre.vn/tin/kinh-te/20170315/dan-tem-cot-do-xang-dau-chong-that-thu-thue/1280765.html">
+						Dán tem cột đo xăng dầu chống thất thu thuế																								</a>
+				</li>
+								<li>
+					<a title="Nghiên cứu biện pháp tự vệ khi nhập khẩu ôtô tăng đột biến" href="http://tuoitre.vn/tin/kinh-te/the-gioi-xe/20170315/nghien-cuu-bien-phap-tu-ve-khi-nhap-khau-oto-tang-dot-bien/1280669.html">
+						Nghiên cứu biện pháp tự vệ khi nhập khẩu ôtô tăng đột biến													<span class="i-comments"><i class="fa fa-comments"></i> 1</span> 											</a>
+				</li>
+							</ul>
+					</div>
+
+	<!-- Một ảnh cột giữa -->
+	        </aside>
+    </section>
+        <footer class="footer">
+	<ul class="top-footer">
+		<li><a href="http://tuoitrenews.vn" target="_blank" title="Tuổi Trẻ News ">Tuổi Trẻ News </a></li>
+		<li><a href="http://cuoituan.tuoitre.vn/" target="_blank" title="Tuổi Trẻ Cuối Tuần">Tuổi Trẻ Cuối Tuần </a></li>
+		<li><a href="http://tv.tuoitre.vn" target="_blank" title="Tuổi trẻ TV">Tuổi trẻ TV</a></li>
+		<!-- <li><a href="http://tuoitre.vn/Ao-trang" target="_blank" title="Áo Trắng">Áo Trắng</a></li> -->
+		<li><a href="http://tusach.tuoitre.vn" target="_blank" title="Tủ Sách Tuổi Trẻ">Tủ Sách Tuổi Trẻ</a></li>
+
+		<li class="float-r"><a class="btn-send" href="http://tuoitre.vn/trang/lien-he" title="Gửi bài về Toà soạn">Gửi bài về Toà soạn</a></li>
+		<!-- <li class="float-r"><a class="btn-set" href="http://pay.tuoitre.vn/dat-bao" target="_blank" title="Đặt báo Online">Đặt báo Online</a></li> -->
+		<li class="float-r">
+			<a target="_blank" class="btn-android" href="https://play.google.com/store/apps/details?id=vn.tuoitre.app" title=""><img alt="" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/images/btn-android.jpg"></a>
+			<a target="_blank" class="btn-ios" href="https://itunes.apple.com/us/app/tuoi-tre-online/id974433568?l=vi&ls=1&mt=8" title=""><img alt="" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/images/btn-ios.jpg"></a>
+		</li>
+	</ul>
+	<ul class="list-link">
+		<li>
+			<dl>
+				<dt><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi" title="Chính trị - Xã hội">Chính trị - Xã hội</a></dt>
+				<dd><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/thoi-su-suy-nghi" title="Thời sự - Suy nghĩ">Thời sự - Suy nghĩ</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/phong-su-ky-su" title="Phóng sự - Ký sự">Phóng sự - Ký sự</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/moi-truong" title="Môi trường">Môi trường</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/chuyen-thuong-ngay" title="Chuyện thường ngày">Chuyện thường ngày</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/tieu-diem" title="Chuyện thường ngày">Tiêu điểm</a></dd>
+			</dl>
+		</li>
+		<li>
+			<dl>
+				<dt><a href="http://tuoitre.vn/tin/the-gioi" title="Thế giới">Thế giới</a></dt>
+				<dd><a href="http://tuoitre.vn/tin/the-gioi/quan-sat-binh-luan" title="Quan sát – Bình luận">Quan sát – Bình luận</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/the-gioi/the-gioi-muon-mau" title="Thế giới muôn màu">Thế giới muôn màu</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/the-gioi/nguoi-viet-nam-chau" title="Người Việt năm châu">Người Việt năm châu</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/the-gioi/ho-so" title="Hồ sơ">Hồ sơ</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/the-gioi/goc-anh" title="Góc ảnh">Góc ảnh</a></dd>
+			</dl>
+		</li>
+		<li>
+			<dl>
+				<dt><a href="http://tuoitre.vn/tin/giao-duc" title="Giáo dục">Giáo dục</a></dt>
+				<dd><a href="http://tuyensinh.tuoitre.vn" title="Tuyển sinh">Tuyển sinh</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/giao-duc/du-hoc" title="Du học">Du học</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/giao-duc/khoa-hoc" title="Khoa học">Khoa học</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/giao-duc/cau-chuyen-giao-duc" title="Câu chuyện giáo dục">Câu chuyện giáo dục</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/giao-duc/giao-duc-cac-nuoc" title="Giáo dục các nước">Giáo dục các nước</a></dd>
+			</dl>
+		</li>
+		<li>
+			<dl>
+				<dt><a href="http://tuoitre.vn/tin/nhip-song-tre" title="Nhịp sống trẻ">Nhịp sống trẻ</a></dt>
+				<dd><a href="http://tuoitre.vn/tin/nhip-song-tre/song-va-yeu" title="Sống & Yêu">Sống & Yêu</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/nhip-song-tre/co-hoi-viec-lam" title="Cơ hội việc làm">Cơ hội việc làm</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/nhip-song-tre/nhip-song-online" title="Nhịp sống online">Nhịp sống online</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/nhip-song-tre/bac-nhip-trai-tim" title="Bắc nhịp trái tim">Bắc nhịp trái tim</a></dd>
+			</dl>
+		</li>
+		<li>
+			<dl>
+				<dt><a href="http://dulich.tuoitre.vn" title="Du lịch">Du lịch</a></dt>
+				<dd><a href="http://dulich.tuoitre.vn/tin/nhung-mien-dat-la" title="Những miền đất lạ">Những miền đất lạ</a></dd>
+				<dd><a href="http://dulich.tuoitre.vn/tin/trai-nghiem-kham-pha" title="Trải nghiệm - Khám phá">Trải nghiệm - Khám phá</a></dd>
+				<dd><a href="http://dulich.tuoitre.vn/tin/am-thuc" title="Ẩm thực">Ẩm thực</a></dd>
+				<dd><a href="http://dulich.tuoitre.vn/tin/van-hoa" title="Văn hoá">Văn hoá</a></dd>
+				<dd><a href="http://dulich.tuoitre.vn/tin/goc-anh-lu-hanh" title="Góc ảnh lữ hành">Góc ảnh lữ hành</a></dd>
+			</dl>
+		</li>
+		<li>
+			<dl>
+				<dt><a target="_blank" href="http://tuoitre.vn/tin/media" title="Media">Media</a></dt>
+				<dd><a target="_blank" href="http://tuoitre.vn/tin/media/video" title="Video">Video</a></dd>
+				<dd><a target="_blank" href="http://tuoitre.vn/tin/media/photo" title="Video">Photo</a></dd>
+				<dd><a target="_blank" href="http://tuoitre.vn/tin/media/audio" title="Video">Audio</a></dd>
+				<dd><a target="_blank" href="http://tuoitre.vn/tin/goc-anh" title="Video">Góc Ảnh</a></dd>
+			</dl>
+		</li>
+		<li>
+			<dl>
+				<dt><a href="http://nhipsongso.tuoitre.vn" title="Nhịp sống số">Nhịp sống số</a></dt>
+				<dd><a href="http://nhipsongso.tuoitre.vn/tin/dien-thoai" title="Điện thoại">Điện thoại</a></dd>
+				<dd><a href="http://nhipsongso.tuoitre.vn/tin/thiet-bi-so" title="Thiết bị số">Thiết bị số</a></dd>
+				<dd><a href="http://nhipsongso.tuoitre.vn/tin/blog" title="Blog">Blog</a></dd>
+				<dd><a href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc" title="Thủ thuật - Kiến thức">Thủ thuật - Kiến thức</a></dd>
+				<dd><a href="http://nhipsongso.tuoitre.vn/tin/tu-van-tieu-dung" title="Tư vấn tiêu dùng">Tư vấn tiêu dùng</a></dd>
+				<dd><a href="http://nhipsongso.tuoitre.vn/tin/nhip-cau" title="Nhịp cầu">Nhịp cầu</a></dd>
+
+			</dl>
+		</li>
+		<li>
+			<dl>
+				<dt><a href="http://tuoitre.vn/tin/kinh-te" title="Kinh tế">Kinh tế</a></dt>
+				<dd><a href="http://tuoitre.vn/tin/kinh-te/thi-truong" title="Thị trường">Thị trường</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/kinh-te/tai-chinh" title="Tài chính">Tài chính</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/kinh-te/doanh-nhan" title="Doanh nhân">Doanh nhân</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/kinh-te/the-gioi-xe" title="Thế giới xe">Thế giới xe</a></dd>
+				<dd><a href="http://batdongsan.tuoitre.vn" title="Bất động sản">Bất động sản</a></dd>
+				<dd><a href="http://dulich.tuoitre.vn/" title="Du lịch">Du lịch</a></dd>
+			</dl>
+		</li>
+		<li>
+			<dl>
+				<dt><a target="_blank" href="http://thethao.tuoitre.vn/" title="Thể thao">Thể thao</a></dt>
+				<dd><a target="_blank" href="http://thethao.tuoitre.vn/trang/bong-da" title="Bóng đá">Bóng đá</a></dd>
+				<dd><a target="_blank" href="http://thethao.tuoitre.vn/trang/quan-vot" title="Quần vợt">Quần vợt</a></dd>
+				<dd><a target="_blank" href="http://thethao.tuoitre.vn/trang/cac-mon-khac" title="Các môn khác">Các môn khác</a></dd>
+				<dd><a target="_blank" href="http://thethao.tuoitre.vn/trang/suc-khoe-the-thao" title="Sức khỏe thể thao">Sức khỏe thể thao</a></dd>
+				<dd><a target="_blank" href="http://thethao.tuoitre.vn/trang/the-thao-cuoc-song" title="Thể thao và Cuộc sống">Thể thao và Cuộc sống</a></dd>
+				<dd><a target="_blank" href="http://thethao.tuoitre.vn/trang/hau-truong" title="Hậu trường">Hậu trường</a></dd>
+			</dl>
+		</li>
+		<li>
+			<dl>
+				<dt><a href="http://tuoitre.vn/tin/song-khoe" title="Sống khoẻ">Sống khoẻ</a></dt>
+				<dd><a href="http://tuoitre.vn/tin/song-khoe/phong-mach-online" title="Phòng mạch Online">Phòng mạch Online</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/song-khoe/me-va-be" title="Mẹ & Bé">Mẹ & Bé</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/song-khoe/gioi-tinh" title="Giới tính">Giới tính</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/song-khoe/tu-van-hiem-muon" title="Tư vấn hiếm muộn">Tư vấn hiếm muộn</a></dd>
+				<!-- <dd><a href="" title="Blog bác sĩ">Blog bác sĩ</a></dd> -->
+			</dl>
+
+		</li>
+		<li>
+			<dl>
+				<dt><a href="http://tuoitre.vn/tin/van-hoa-giai-tri" title="Văn hoá - Giải trí">Văn hoá - Giải trí</a></dt>
+				<dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/am-nhac" title="Âm nhạc">Âm nhạc</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/dien-anh" title="Điện ảnh">Điện ảnh</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/thoi-trang" title="Thời trang">Thời trang</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/truyen-hinh" title="Truyền hình">Truyền hình</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/hau-truong" title="Hậu trường">Hậu trường</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/van-hoc-sach" title="Văn học - Sách">Văn học - Sách</a></dd>
+			</dl>
+		</li>
+		<li>
+			<dl>
+				<dt><a href="http://tuoitre.vn/tin/phap-luat" title="Pháp luật">Pháp luật</a></dt>
+				<dd><a href="http://tuoitre.vn/tin/phap-luat/tu-van" title="Tư vấn">Tư vấn</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/phap-luat/ky-su-phap-dinh" title="Ký sự pháp đình">Ký sự pháp đình</a></dd>
+			</dl>
+			<dl class="noPadding">
+				<dt><a href="http://tuoitre.vn/tin/ban-doc" title="Bạn đọc">Bạn đọc</a></dt>
+			</dl>
+			<dl class="noPadding">
+				<dt><a target="_blank" href="http://cohoi.tuoitre.vn" title="Cơ hội mua sắm">Cơ hội mua sắm</a></dt>
+			</dl>
+			<dl class="noPadding">
+				<dt><a href="http://tuoitre.vn/tin/can-biet" title="Cần biết">Cần biết</a></dt>
+			</dl>
+		</li>
+
+	</ul>
+	<div class="bottom-footer">
+		<a class="logo-footer" href="" title="logo"><img  alt="" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/images/logo-footer.png" /></a>
+		<p class="float-l">
+			<strong>© Copyright 2017 TUOITRE.VN</strong>, All rights reserved <br/>
+			® Tuổi Trẻ Online giữ bản quyền nội dung trên website này.
+		</p>
+		<p class="float-r">
+			<a href="http://tuoitre.vn/tin/thong-tin-toa-soan" title="Thông tin Tòa soạn">Thông tin Tòa soạn</a> -
+			<a target="_blank" href="http://www.thanhdoan.hochiminhcity.gov.vn/thanhdoan/webtd" title="Thông tin Thành Đoàn">Thông tin Thành Đoàn</a> -
+			<a target="_blank" href=" http://thitruong.tuoitre.vn" title="Liên hệ Quảng cáo">Liên hệ Quảng cáo</a> <br/>
+			<span>Đường dây nóng: <strong>0918.033.133</strong> - Liên hệ Quảng cáo: <strong>083.997.4848</strong></span>
+		</p>
+	</div>
+</footer>
+<div class="wrapPopup" id="setHome">
+	<div class="popup">
+		<div class="centerPopup">
+			<section>
+				<header>
+					<h1>Đặt Tuoitre.vn làm trang chủ</h1>
+					<a href="javascript:void(0);" title="Đóng" class="closepp" onclick="closePopup('setHome')"></a>
+				</header>
+				<div class="content">
+					<img alt="" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/images/img-chrome.jpg">
+				</div>
+			</section>
+		</div>
+	</div>
+</div>
+
+<ul class="list-appmobile">
+	<li><a href="https://play.google.com/store/apps/details?id=vn.tuoitre.app" target="_blank" title=""><i class="fa fa-android"></i> <span>Ứng dụng Android</span></a></li>
+	<li><a href="https://itunes.apple.com/us/app/tuoi-tre-online/id974433568?l=vi&ls=1&mt=8" target="_blank" title=""><i class="fa fa-apple"></i> <span>Ứng dụng IOS</span></a></li>
+</ul>
+<a class="btn-top" href="javascript:void(0);" title="Top"> <span>Về đầu trang</span></a>
+</div>
+<a class="btn-top" href="javascript:void(0);" title="Top">Top</a>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MD25GD"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MD25GD');</script>
+<script type="text/javascript" src="http://s.tuoitre.vn/TripleX/getad.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/js/jquery.flexslider.min.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/js/jscrollpane.min.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/js/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/js/jquery.fancybox-buttons.min.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/js/jquery.fancybox-thumbs.min.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/js/tabdrop.min.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/js/start.min.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/js/custom.min.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/js/tttt.min.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+	
+    /*$(window).load(function(){
+        $('.sort-desc').click();        
+      });*/
+
+
+            function viewMoreESTag(e, t, n, r, i, s, scroll) {
+                var o = parseInt($("#page_number").val()) + 1;
+                var u = e + "page?slug=" + t + "&ajax=" + n + "---" + r;
+                if (s == -1) s = parseInt($("#tag_id").val());
+                $.ajax({
+                    type: "POST",
+                    url: u,
+                    data: {
+                        page_number: o,
+                        tag_id: s,
+                        YII_CSRF_TOKEN: "+i+"
+                    },
+                    beforeSend: function () {
+                        $("#loading").show();
+                        $("#viewmore").hide();
+                    },
+                    success: function (e) {
+                        var content_area = $(e).find("#tag_contents");
+                        if ($.trim(content_area.html()) != "") {
+                            var t = $("#tag_contents");
+
+                            // remove unused css
+                            content_area.find("div.block-left").first().removeClass("block-top");
+
+                            t.append(content_area.html());
+                            changeUrlByPage(o);
+                            $("#page_number").val(o);
+
+                            // hide pagination
+                            var hasNextPage = $(e).find("#viewmore");
+                            if ($.trim(hasNextPage.html()) == "") {
+                                $(".readmore").remove();
+                                $(scroll).removeAttr("onClick");
+                            }
+                        } else {
+                            $(".readmore").remove();
+                            $(scroll).removeAttr("onClick");
+                        }
+                    }
+                }).done(function(){
+                    $("#loading").hide();
+                    $("#viewmore").show();
+                });
+            }
+            
+/*]]>*/
+</script>
+</body>
